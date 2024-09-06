@@ -1,0 +1,9 @@
+This info is also in the auto.sh file
+
+
+# guide below on what the numbers control.
+# 1,(luminance),(hue),(saturation),(contrast)
+# Miyoo is 0-20 settings
+# 30 here is luminance set to 6/20
+# 35 would change it to 7
+# adjust the numbers in increments of 5 to your taste
