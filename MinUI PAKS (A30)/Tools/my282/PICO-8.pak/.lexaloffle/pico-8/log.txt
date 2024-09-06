@@ -1,0 +1,107 @@
+[000000] codo_init
+[000000]   platform: Linux
+[000001]   Found config.txt
+[000001]   
+[000001]     01 window_size 640 480 // window width, height
+[000001]     02 screen_size 0 0 // screen width, height (stretched to window) 
+[000001]     03 show_fps 0 // Draw frames per second in the corner
+[000001]     04 windowed 0 // 1 to start up in windowed mode
+[000001]     05 window_position -1 -1 // x and y position of window (-1, -1 to let the window manager decide)
+[000001]     new window position: -1, -1
+[000001]     06 frameless 0 // 1 to use a window with no frame
+[000001]     07 fullscreen_method 1 // 0 maximized window (linux)  1 borderless desktop-sized window  2 hardware fullscreen (warning: erratic behaviour under some drivers)
+[000001]     08 blit_method 2  // 0 auto  1 software (slower but sometimes more reliable)  2 hardware (can do filtered scaling) 
+[000001]     09 foreground_sleep_ms 10 // number of milliseconds to sleep each frame. Try 10 to conserve battery power
+[000001]     10 background_sleep_ms 10 // number of milliseconds to sleep each frame when running in the background
+[000001]     11 sessions 40 // number of times program has been run
+[000001]     12 rmb_key 0 // 0 for none  226 for LALT
+[000001]     13 desktop_path 
+[000001]     14 read_controllers_in_background 0
+[000001]     15 sound_volume 256 // 0..256
+[000001]     16 music_volume 256 // 0..256
+[000002]     17 mix_buffer_size 1024
+[000002]     18 map_scancodes 1=28,
+[000002]     19 use_wget 1 // (Linux) 1 to use wget for downloads instead of libcurl (must be installed)
+[000002]     20 version 0.2.6b
+[000002]     21 volume 256
+[000002]     22 root_path /mnt/SDCARD/Tools/my282/PICO8.pak/.lexaloffle/pico-8/carts/
+[000002]     23 cdata_path /mnt/SDCARD/Tools/my282/PICO8.pak/.lexaloffle/pico-8/cdata/
+[000002]     24 joystick_index 0
+[000002]     25 merge_joysticks 0
+[000002]     26 button_keys 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+[000002]     27 live_notes 0
+[000002]     28 cursor_snap 0
+[000002]     29 gui_theme 0
+[000002]     30 screenshot_scale 3
+[000002]     31 gif_scale 3
+[000002]     32 gif_len 16
+[000002]     33 gif_reset_mode 0
+[000002]     34 host_framerate_control 0
+[000002]     35 splore_filter 0
+[000002]     36 tab_width 1
+[000002]     37 draw_tabs 0
+[000002]     38 record_activity_log 1
+[000002]     39 allow_function_keys 0
+[000002]     40 check_for_cart_updates 1
+[000002]     41 enable_gpio 0
+[000002]     42 auto_hide_mouse_cursor 5
+[000002]     43 aggressive_backups 0
+[000002]     44 periodic_backups 20
+[000002]     45 transform_screen 135
+[000002]     46 gfx_grid_lines 0
+[000002]     47 capture_timestamps 0
+[000002]   
+[000003]   codo_system_init
+[000088]   Compiled against SDL version: 2.0.14
+[000088]   Linked against SDL version:   2.0.20
+[000088]   Current video driver: mali
+[000088]   codo_reset_timer
+[000088]   codo_gui_init
+[000089]   codo_keys_init
+[000089]   codo_text_init
+[000090]   codo_video_init
+[000090]   codo_mouse_init
+[000090]   codo_joystick_init
+[000098]   Reading controller mappings: /mnt/SDCARD/Tools/my282/PICO8.pak/.lexaloffle/pico-8/sdl_controllers.txt
+[000098]    added controller mapping: 4d69796f6f20413330204a6f79737469,Miyoo A30 Joystick,platform:Linux,
+[000098]   searching for joysticks
+[000098]     found 1 joysticks
+[000099]     connecting joystick 0
+[000099]     Controller 0: Miyoo A30 Joystick
+[000099]      Number of Axes: 2
+[000099]      Number of Buttons: 18
+[000099]      Number of Balls: 0
+[000099]      Mapping: 4d69796f6f20413330204a6f79737469,Miyoo A30 Joystick,platform:Linux,
+[000099]   ok
+[000099] ok
+[000636] codo_load_pod: /mnt/SDCARD/Tools/my282/PICO8.pak/bin/pico8.dat ok 
+[000671] codo_set_screen 128 128 8 100
+[000671]  window size: 640 480
+[000672] setting fullscreen window size to 480 640
+[000679]   setting filter to linear (screen_mode 1  back page width: 128)
+  renderer opengles2:
+   flags: 0x0000000E ( |  | )
+   texture formats (9): ARGB8888, ABGR8888, RGB888, BGR888, YV12, IYUV, 0x3231564e, 0x3132564e, 0x2053454f
+   max texture size: 4096x4096
+[000682]  desktop size: 480 640
+[000682] ok
+[000696] codo_sound_init mix_buffer_size: 1024
+[000696] codo_sound_init
+[000696] SDL_INIT_AUDIO ok
+[000762] SDL_OpenAudio ok
+[000762]  freq:22050
+ channels:1
+[000762] Built-in audio drivers: 0 alsa 1 dsp
+[000762] Current audio driver: alsa
+[003127] splore_init
+[003128] could not load favourites file: /mnt/SDCARD/Tools/my282/PICO8.pak/.lexaloffle/pico-8/favourites.txt
+[014477] codo_exit
+[014477]   cmusic_stop
+[014477]   codo_main_exit
+[014481]   codo_config_save
+[014482]   codo_sound_exit
+[014482]   codo_video_exit
+[014497]   codo_joystick_exit
+[014497]   codo_system_exit
+[014509]   codo_items_created: 1468
+[014509] ok

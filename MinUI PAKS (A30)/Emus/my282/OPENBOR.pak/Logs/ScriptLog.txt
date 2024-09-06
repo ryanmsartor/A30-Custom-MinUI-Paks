@@ -1,0 +1,9794 @@
+
+#### animationscript function main #####
+# data/chars/misc/flash/flash.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==0)
+    {
+        if(frame==12)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/metalflash/metalflash.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1)
+    {
+        if(frame==5)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/blood/blood.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==2)
+    {
+        if(frame==6)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/break/break.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==3)
+    {
+        if(frame==7)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/burn/burn.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==4)
+    {
+        if(frame==7)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/shock/shock.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==5)
+    {
+        if(frame==13)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/explosion/explosion.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==6)
+    {
+        if(frame==83)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/smoke/smoke.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==7)
+    {
+        if(frame==39)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/quake/quake_low.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==8)
+    {
+        if(frame==4)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/quake/quake_high.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==9)
+    {
+        if(frame==4)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/block/block.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==10)
+    {
+        if(frame==8)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/dust/dust.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==11)
+    {
+        if(frame==7)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/fall/fall.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==12)
+    {
+        if(frame==7)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/landsafe/landsafe.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==13)
+    {
+        if(frame==11)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/xcut/xcut1.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==14)
+    {
+        if(frame==4)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/xcut/xcut2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==15)
+    {
+        if(frame==4)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/xcut/xcut3.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==16)
+    {
+        if(frame==9)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/impact/impact.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==17)
+    {
+        if(frame==30)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/laserhit/laserhit.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==18)
+    {
+        if(frame==4)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/dust/crowd.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==19)
+    {
+        if(frame==8)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/splash/splash.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==20)
+    {
+        if(frame==1)
+        {
+            spawn01("water", 0, 0, 0);
+        }
+        if(frame==10)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/water/water.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==21)
+    {
+        if(frame==15)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/counter/counter.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==22)
+    {
+        if(frame==24)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/countdown/countdown.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==23)
+    {
+        if(frame==6)
+        {
+            looper(4, 19);
+        }
+        if(frame==6)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/rage/rage.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==24)
+    {
+        if(frame==33)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/ragefull/ragefull.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==25)
+    {
+        if(frame==24)
+        {
+            looper(0, 3);
+        }
+        if(frame==24)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/ragefull/ragefull_bar1.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==26)
+    {
+        if(frame==0)
+        {
+            spawnbind("ragefull_bar2", 120, 0, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull_bar3", 240, 0, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull_bar4", 360, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==30)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/ragefull/ragefull_bar2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==34)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/ragefull/ragefull_bar3.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==38)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/ragefull/ragefull_bar4.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==42)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/barmask/bar_mask1.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==43)
+    {
+        if(frame==0)
+        {
+            spawnbind("bar_mask2", 120, 0, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("bar_mask3", 240, 0, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("bar_mask4", 360, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/misc/barmask/bar_mask1b.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==55)
+    {
+        if(frame==0)
+        {
+            spawnbind("bar_mask2b", 120, 0, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("bar_mask3b", 240, 0, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("bar_mask4b", 360, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/knifeT.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==69)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/knifeJ.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==70)
+    {
+        if(frame==8)
+        {
+            spawn01("knife", 0, 0, 0);
+        }
+        if(frame==9)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/knifeS.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==72)
+    {
+        if(frame==0)
+        {
+            spawn01("knife", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/star.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==73)
+    {
+        if(frame==2)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==74)
+    {
+        if(frame==0)
+        {
+            stop2();
+        }
+        if(frame==0)
+        {
+            shooter("metalflash", 12, -8, 0, 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+    if(animhandle==75)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/star99.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==76)
+    {
+        if(frame==2)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==77)
+    {
+        if(frame==0)
+        {
+            stop2();
+        }
+        if(frame==0)
+        {
+            shooter("metalflash", 12, -8, 0, 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+    if(animhandle==78)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/starP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==79)
+    {
+        if(frame==2)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==80)
+    {
+        if(frame==0)
+        {
+            stop2();
+        }
+        if(frame==0)
+        {
+            shooter("metalflash", 12, -8, 0, 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+    if(animhandle==81)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/giant_star.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==83)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/giant_star99.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==85)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/giant_starP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==87)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/swordT.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==90)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/pipeT.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==93)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/kunaiT.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==96)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/bottle.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==97)
+    {
+        if(frame==4)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+    if(animhandle==98)
+    {
+        if(frame==0)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+    if(animhandle==99)
+    {
+        if(frame==0)
+        {
+            leaper(-2, 2, 0);
+        }
+        if(frame==1)
+        {
+            tosser4("bottle_broken1", 0, 0, 0, 1, 2, 0);
+        }
+        if(frame==1)
+        {
+            tosser4("bottle_broken2", 0, 0, 0, -1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/bottle99.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==100)
+    {
+        if(frame==4)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+    if(animhandle==101)
+    {
+        if(frame==0)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+    if(animhandle==102)
+    {
+        if(frame==0)
+        {
+            leaper(-2, 2, 0);
+        }
+        if(frame==1)
+        {
+            tosser4("bottle_broken1", 0, 0, 0, 1, 2, 0);
+        }
+        if(frame==1)
+        {
+            tosser4("bottle_broken2", 0, 0, 0, -1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/bottleP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==103)
+    {
+        if(frame==4)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+    if(animhandle==104)
+    {
+        if(frame==0)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+    if(animhandle==105)
+    {
+        if(frame==0)
+        {
+            leaper(-2, 2, 0);
+        }
+        if(frame==1)
+        {
+            tosser4("bottle_broken1", 0, 0, 0, 1, 2, 0);
+        }
+        if(frame==1)
+        {
+            tosser4("bottle_broken2", 0, 0, 0, -1, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/bottle_broken1.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==106)
+    {
+        if(frame==0)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/bottle_broken2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==108)
+    {
+        if(frame==0)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/weapons/grenade.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==110)
+    {
+        if(frame==9)
+        {
+            looper(1, 10);
+        }
+        if(frame==9)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==111)
+    {
+        if(frame==0)
+        {
+            leaper(-1, 2, 0);
+        }
+        if(frame==1)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==112)
+    {
+        if(frame==8)
+        {
+            spawnbind("explosion", 0, 0, 1);
+        }
+        if(frame==8)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==9)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/itens/noitem.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==118)
+    {
+        if(frame==0)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/arcade.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==119)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==120)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/bin.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==121)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==122)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/box.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==123)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==124)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/cart.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==125)
+    {
+        if(frame==0)
+        {
+            dasher(-3, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==126)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/chair.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==127)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==128)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/barrel.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==129)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==130)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/egg_explosion.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==131)
+    {
+        if(frame==83)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/egg.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==132)
+    {
+        if(frame==4)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==133)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==4)
+        {
+            spawn01("egg_explosion", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/menu.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==135)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, -1, 2, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/roadblock.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==136)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==137)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/sandbag.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==138)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==139)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/table.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==140)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==141)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/tire.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==142)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==143)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/tree_slow.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==144)
+    {
+        if(frame==6)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/tree_fast.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==145)
+    {
+        if(frame==6)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/trash.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==146)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==147)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/obstacles/vase.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==148)
+    {
+        if(frame==1)
+        {
+            offscreenkill(30, 0);
+        }
+        return;
+    }
+    if(animhandle==149)
+    {
+        if(frame==0)
+        {
+            tosserX(0, 0, 0, 0, 1, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/select/chosen.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==161)
+    {
+        if(frame==2)
+        {
+            looper(0, 9);
+        }
+        if(frame==2)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st1/dunk_a.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==162)
+    {
+        if(frame==0)
+        {
+            offscreenkill(500, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st1/dunk_b.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==163)
+    {
+        if(frame==0)
+        {
+            offscreenkill(500, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st1/rim.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==164)
+    {
+        if(frame==0)
+        {
+            offscreenkill(500, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/donovan/donovan_pipe.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==168)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==172)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/donovan/donovan_manhole.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==179)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==184)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==189)
+    {
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st1/manhole.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==200)
+    {
+        if(frame==0)
+        {
+            cancel(-120, 120, -999, 999, -999, 999, "ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==201)
+    {
+        if(frame==0)
+        {
+            leaper(1, 4.5, 0);
+        }
+        if(frame==0)
+        {
+            tosser6("donovan_manhole", "Reid", 1, 0, 0, 0, 1, 3, -0.25);
+        }
+        if(frame==2)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/signal/signal_gate.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==203)
+    {
+        if(frame==0)
+        {
+            wall(0);
+        }
+        if(frame==11)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==204)
+    {
+        if(frame==0)
+        {
+            dasher(0, 0, 0.5);
+        }
+        if(frame==3)
+        {
+            wall(1);
+        }
+        return;
+    }
+    if(animhandle==205)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==211)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==216)
+    {
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==224)
+    {
+        if(frame==1)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==2)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==3)
+        {
+            dasher(0.5, 0, 0);
+        }
+        if(frame==4)
+        {
+            dasher(0);
+        }
+        return;
+    }
+    if(animhandle==225)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 24, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 12, 25, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -12, 25, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==226)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 24, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 12, 25, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -12, 25, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st1/gate.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==227)
+    {
+        if(frame==0)
+        {
+            cancel(-80, 80, -999, 999, -999, 999, "ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==228)
+    {
+        if(frame==9)
+        {
+            tosser6("signal_gate", "R._Signal", 1, 0, 0, 0, 0, 0, 0);
+        }
+        if(frame==10)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st1/rain.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==229)
+    {
+        if(frame==0)
+        {
+            sampleplay("data/sounds/rain.wav", 1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st1/thunder.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==231)
+    {
+        if(frame==1)
+        {
+            sampleX("data/sounds/thunder.wav", "data/sounds/thunder2.wav", 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st2/truck.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==235)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            sampleplay("data/sounds/truck.wav", 1);
+        }
+        if(frame==1)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st3/entrance3.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==240)
+    {
+        if(frame==0)
+        {
+            spawn01("st3_entrance3S", 580, 120, 20);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st7/machine1.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==254)
+    {
+        if(frame==0)
+        {
+            spawn01("st7_machine1S", 0, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st7/machine1S.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==255)
+    {
+        if(frame==0)
+        {
+            dasher(0.2, 0, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st7/machine2.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==256)
+    {
+        if(frame==0)
+        {
+            spawn01("st7_machine2S", 0, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st7/machine2S.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==257)
+    {
+        if(frame==0)
+        {
+            dasher(0.2, 0, 0);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/fog/fog_bomb.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==258)
+    {
+        if(frame==0)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==259)
+    {
+        if(frame==0)
+        {
+            cancel(-100, 100, -999, 999, -999, 999, "ANI_FOLLOW2");
+        }
+        return;
+    }
+    if(animhandle==260)
+    {
+        if(frame==0)
+        {
+            leaper(0, 0, -1);
+        }
+        return;
+    }
+    if(animhandle==262)
+    {
+        if(frame==2)
+        {
+            tosserTX("grenade", 16, 65, 0, 3.7, 0.15);
+        }
+        return;
+    }
+    if(animhandle==263)
+    {
+        if(frame==0)
+        {
+            leaper(0, 0, 1);
+        }
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st7/elevator.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==264)
+    {
+        if(frame==0)
+        {
+            spawnparent("st7_elevatorS", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==265)
+    {
+        if(frame==0)
+        {
+            leaper(-0.25, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+    if(animhandle==266)
+    {
+        if(frame==0)
+        {
+            leaper(-0.25, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+    if(animhandle==267)
+    {
+        if(frame==0)
+        {
+            leaper(0, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        if(frame==1)
+        {
+            spawnscreen("st7_backchange", 0, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawn01("Fog_Bomb", 600, 0, -400);
+        }
+        if(frame==3)
+        {
+            spawn01("Fog_Bomb", 500, 0, -400);
+        }
+        if(frame==4)
+        {
+            spawn01("Fog_Bomb", 700, 0, -400);
+        }
+        return;
+    }
+    if(animhandle==268)
+    {
+        if(frame==0)
+        {
+            leaper(0, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+    if(animhandle==269)
+    {
+        if(frame==0)
+        {
+            leaper(0, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            removeWall(0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/bgs/st8/elevator.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==272)
+    {
+        if(frame==0)
+        {
+            spawnparent("st8_elevatorS", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+    if(animhandle==273)
+    {
+        if(frame==0)
+        {
+            leaper(0, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            zeroWait();
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+    if(animhandle==274)
+    {
+        if(frame==0)
+        {
+            leaper(0, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            zeroWait();
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+    if(animhandle==275)
+    {
+        if(frame==0)
+        {
+            zeroWait();
+        }
+        if(frame==0)
+        {
+            leaper(0, 0, 0.25);
+        }
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==1)
+        {
+            removeWall(0);
+        }
+        if(frame==1)
+        {
+            removeWall(1);
+        }
+        if(frame==1)
+        {
+            removeWall(2);
+        }
+        if(frame==1)
+        {
+            zeroWait();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/axel/axel.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==277)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        if(frame==8)
+        {
+            looper(4, 9);
+        }
+        return;
+    }
+    if(animhandle==278)
+    {
+        if(frame==0)
+        {
+            spawnChosen("chosen", 120, 0, 24, 1);
+        }
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==279)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        if(frame==8)
+        {
+            looper(4, 9);
+        }
+        return;
+    }
+    if(animhandle==283)
+    {
+        if(frame==0)
+        {
+            vaultStuck(40, 40, 20);
+        }
+        return;
+    }
+    if(animhandle==285)
+    {
+        if(frame==0)
+        {
+            landsafe();
+        }
+        return;
+    }
+    if(animhandle==288)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==290)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==293)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==294)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==295)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==296)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==298)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==299)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==301)
+    {
+        if(frame==0)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==302)
+    {
+        if(frame==0)
+        {
+            keymove(2);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==308)
+    {
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            takeact("common_grab");
+        }
+        if(frame==6)
+        {
+            fakeBind(31);
+        }
+        return;
+    }
+    if(animhandle==309)
+    {
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            takeact("common_grabattack");
+        }
+        return;
+    }
+    if(animhandle==312)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 5, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, -5, 5, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -30, 25, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 2, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==313)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 15, 0, 0, 1);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(3, 10, 5, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -15, 55, 0, -1);
+        }
+        if(frame==3)
+        {
+            position(2, -40, 30, 0, 0);
+        }
+        if(frame==4)
+        {
+            position(4, -55, -1, 0, 0);
+        }
+        if(frame==4)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            leaper(1, 2.5, 0);
+        }
+        if(frame==5)
+        {
+            depost(0);
+        }
+        if(frame==5)
+        {
+            finish(18, 2, 2, 2, 0, 0);
+        }
+        if(frame==7)
+        {
+            landframe();
+        }
+        if(frame==8)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==318)
+    {
+        if(frame==1)
+        {
+            dasher(1.5, 0, 0);
+        }
+        if(frame==7)
+        {
+            dasher(0.5, 0, 0);
+        }
+        if(frame==9)
+        {
+            dasher(0);
+        }
+        return;
+    }
+    if(animhandle==320)
+    {
+        if(frame==19)
+        {
+            leaper(0, 2.5, 0);
+        }
+        return;
+    }
+    if(animhandle==321)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==5)
+        {
+            looper(1, 11);
+        }
+        if(frame==8)
+        {
+            leaper(1, 3, 0);
+        }
+        return;
+    }
+    if(animhandle==322)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==323)
+    {
+        if(frame==1)
+        {
+            block(0);
+        }
+        if(frame==4)
+        {
+            leaper(1.25, 2.5, 0);
+        }
+        if(frame==6)
+        {
+            landframe();
+        }
+        return;
+    }
+    if(animhandle==325)
+    {
+        if(frame==0)
+        {
+            spawnbind("landsafe", 0, 15, 1);
+        }
+        if(frame==0)
+        {
+            landsafe();
+        }
+        if(frame==0)
+        {
+            leaper(-1.3, 1.6, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/axel/burn/burn.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==326)
+    {
+        if(frame==6)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/axel/axel_knife.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==328)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==334)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==341)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==1)
+        {
+            throweap(48, 48, -1, 3, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/axel/axel_sword.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==342)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==348)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==355)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==2)
+        {
+            throweap(55, 6, -1, 2, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==356)
+    {
+        if(frame==3)
+        {
+            leaper(0, 2.5, 0);
+        }
+        return;
+    }
+    if(animhandle==357)
+    {
+        if(frame==3)
+        {
+            looper(1, 4);
+        }
+        return;
+    }
+    if(animhandle==358)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==13)
+        {
+            shooter("axel_slash", 95, 40, 0, 9, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/axel/axel_pipe.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==359)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==365)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==372)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==2)
+        {
+            throweap(60, 2, -1, 2, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/axel/axel_kunai.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==373)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==379)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==386)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==1)
+        {
+            throweap(49, 46, -1, 3, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/blaze/blaze.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==389)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        if(frame==8)
+        {
+            looper(4, 9);
+        }
+        return;
+    }
+    if(animhandle==390)
+    {
+        if(frame==0)
+        {
+            spawnChosen("chosen", 361, 0, 24, 0);
+        }
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==391)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        if(frame==8)
+        {
+            looper(4, 9);
+        }
+        return;
+    }
+    if(animhandle==395)
+    {
+        if(frame==0)
+        {
+            vaultStuck(40, 40, 20);
+        }
+        return;
+    }
+    if(animhandle==397)
+    {
+        if(frame==0)
+        {
+            landsafe();
+        }
+        return;
+    }
+    if(animhandle==400)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==402)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==405)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==406)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==407)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==408)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==410)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==411)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==413)
+    {
+        if(frame==0)
+        {
+            dasher(2.4, 0, 0);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==414)
+    {
+        if(frame==0)
+        {
+            keymove(2.4);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==419)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(1, 6, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(40, -40, 0);
+        }
+        if(frame==1)
+        {
+            position(3, 12, 6, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, 40, -1, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            leaper(-1, 2, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            finish(18, 2, -1, 2.5, 0, 0);
+        }
+        if(frame==5)
+        {
+            landframe();
+        }
+        if(frame==6)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==420)
+    {
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            takeact("common_grab");
+        }
+        if(frame==6)
+        {
+            fakeBind(14);
+        }
+        return;
+    }
+    if(animhandle==421)
+    {
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            takeact("common_grabattack");
+        }
+        return;
+    }
+    if(animhandle==424)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 8, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 0, 8, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, -40, 12, 0, -1);
+        }
+        if(frame==3)
+        {
+            position(4, -60, 12, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            throw(12, 2, 2, 2.5, 0, 0);
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==425)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 4, 0, 0, 1);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, -8, 5, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, -35, 25, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(4, -60, -1, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            finish(18, 2, -2, 2, 0, 0);
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==430)
+    {
+        if(frame==2)
+        {
+            leaper(1.5, 2.5, 0);
+        }
+        return;
+    }
+    if(animhandle==431)
+    {
+        if(frame==5)
+        {
+            leaper(-1, 2, 0);
+        }
+        return;
+    }
+    if(animhandle==433)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==4)
+        {
+            shooterB("blaze_orb", 78, 40, 0);
+        }
+        if(frame==10)
+        {
+            looper(7, 21);
+        }
+        return;
+    }
+    if(animhandle==434)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==435)
+    {
+        if(frame==1)
+        {
+            block(0);
+        }
+        if(frame==1)
+        {
+            leaper(1, 2, 0);
+        }
+        if(frame==9)
+        {
+            landframe();
+        }
+        if(frame==9)
+        {
+            dasher(3, 0, 0);
+        }
+        if(frame==11)
+        {
+            looper(9, 9);
+        }
+        if(frame==11)
+        {
+            dasher(0.5, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==437)
+    {
+        if(frame==0)
+        {
+            spawnbind("landsafe", 0, 15, 1);
+        }
+        if(frame==0)
+        {
+            landsafe();
+        }
+        if(frame==0)
+        {
+            leaper(-1.3, 1.6, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/blaze/blaze_knife.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==438)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==444)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==452)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==1)
+        {
+            throweap(57, 41, -1, 3, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==453)
+    {
+        if(frame==6)
+        {
+            leaper(1.5, 3, 0);
+        }
+        return;
+    }
+    if(animhandle==455)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==14)
+        {
+            looper(2, 1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/blaze/blaze_sword.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==456)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==462)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==469)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==2)
+        {
+            throweap(69, 20, -1, 2, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==470)
+    {
+        if(frame==0)
+        {
+            dasher(4, 0, 0);
+        }
+        if(frame==12)
+        {
+            looper(6, 5);
+        }
+        if(frame==12)
+        {
+            dasher(0.5, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/blaze/blaze_pipe.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==471)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==477)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==484)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==2)
+        {
+            throweap(74, 17, -1, 2, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/blaze/blaze_kunai.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==485)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==491)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==498)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==1)
+        {
+            throweap(54, 40, -1, 3, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/blaze/orb/orb.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==499)
+    {
+        if(frame==49)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/max/max.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==503)
+    {
+        if(frame==0)
+        {
+            spawnChosen("chosen", 248, 0, 136, 0);
+        }
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==504)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==506)
+    {
+        if(frame==2)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==510)
+    {
+        if(frame==0)
+        {
+            landsafe();
+        }
+        return;
+    }
+    if(animhandle==513)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==514)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==515)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==518)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==519)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==520)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==521)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==523)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==524)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==526)
+    {
+        if(frame==0)
+        {
+            dasher(1.6, 0, 0);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==527)
+    {
+        if(frame==0)
+        {
+            keymove(1.6);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==532)
+    {
+        if(frame==2)
+        {
+            looper(0, 3);
+        }
+        return;
+    }
+    if(animhandle==533)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 30, 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            position(0, 30, 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 2.4, 0);
+        }
+        if(frame==1)
+        {
+            keymove(1);
+        }
+        if(frame==2)
+        {
+            position(0, 30, 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(0, 30, 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            antiwall(40, -40, 0);
+        }
+        if(frame==4)
+        {
+            position(0, 30, 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            grabend();
+        }
+        if(frame==6)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==534)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(2, 0, 80, 0, -1);
+        }
+        if(frame==1)
+        {
+            position(5, 30, 0, 0, 0);
+        }
+        if(frame==2)
+        {
+            antiwall(40, -40, 0);
+        }
+        if(frame==2)
+        {
+            position(3, 30, 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 3, -2, -10, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        if(frame==4)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==535)
+    {
+        if(frame==0)
+        {
+            jump(0);
+        }
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            slamstart2();
+        }
+        if(frame==0)
+        {
+            position(5, 20, 0, 0, -1);
+        }
+        if(frame==1)
+        {
+            antiwall(30, -30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 20, -1, 0, 0);
+        }
+        if(frame==1)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            spawn01("flash", 20, 30, 0);
+        }
+        if(frame==2)
+        {
+            depost(0);
+        }
+        if(frame==2)
+        {
+            finish(24, 3, -2, 3, 0, 0);
+        }
+        if(frame==3)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==538)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 20, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 0, 20, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -40, 35, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(4, -60, -1, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            finish(18, 2, 2, 2, 0, 0);
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==542)
+    {
+        if(frame==2)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawn01("dust", 40, 0, 0);
+        }
+        if(frame==3)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==4)
+        {
+            dasher(0.5, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==544)
+    {
+        if(frame==2)
+        {
+            dasher(3, 0, 0);
+        }
+        if(frame==2)
+        {
+            keymoveZ(3);
+        }
+        if(frame==8)
+        {
+            looper(2, 4);
+        }
+        if(frame==8)
+        {
+            dasher(2.5, 0, 0);
+        }
+        if(frame==9)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==10)
+        {
+            dasher(1.5, 0, 0);
+        }
+        if(frame==11)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==12)
+        {
+            dasher(0.5, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==545)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            dasher(7, 0, 0);
+        }
+        if(frame==1)
+        {
+            keymoveZ(7);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==6)
+        {
+            dasher(4);
+        }
+        if(frame==7)
+        {
+            dasher(3);
+        }
+        if(frame==8)
+        {
+            dasher(2);
+        }
+        if(frame==9)
+        {
+            dasher(1);
+        }
+        if(frame==10)
+        {
+            dasher(0.5);
+        }
+        return;
+    }
+    if(animhandle==546)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==547)
+    {
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==549)
+    {
+        if(frame==0)
+        {
+            spawnbind("landsafe", 0, 40, 1);
+        }
+        if(frame==0)
+        {
+            landsafe();
+        }
+        if(frame==0)
+        {
+            leaper(-1.3, 1.6, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/max/max_knife.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==550)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==552)
+    {
+        if(frame==2)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==556)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==557)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==562)
+    {
+        if(frame==0)
+        {
+            antiwall(30, -30, -1);
+        }
+        if(frame==1)
+        {
+            throweap(70, 44, -1, 3, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/max/max_sword.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==563)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==565)
+    {
+        if(frame==2)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==569)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==570)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==575)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==1)
+        {
+            throweap(73, 20, -1, 2, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/max/max_pipe.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==576)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==578)
+    {
+        if(frame==2)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==582)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==583)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==588)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==1)
+        {
+            throweap(78, 16, -1, 2, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==589)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==4)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/max/max_kunai.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==590)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==592)
+    {
+        if(frame==2)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==596)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==597)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==602)
+    {
+        if(frame==0)
+        {
+            antiwall(30, -30, -1);
+        }
+        if(frame==1)
+        {
+            throweap(69, 42, -1, 3, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/sammy/sammy.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==605)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        if(frame==8)
+        {
+            looper(4, 5);
+        }
+        return;
+    }
+    if(animhandle==606)
+    {
+        if(frame==0)
+        {
+            spawnChosen("chosen", 232, 0, 136, 1);
+        }
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==607)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        if(frame==8)
+        {
+            looper(4, 5);
+        }
+        return;
+    }
+    if(animhandle==611)
+    {
+        if(frame==0)
+        {
+            vaultStuck(40, 40, 20);
+        }
+        return;
+    }
+    if(animhandle==613)
+    {
+        if(frame==0)
+        {
+            landsafe();
+        }
+        return;
+    }
+    if(animhandle==616)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==618)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==621)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==622)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==623)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==624)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==626)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==627)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==629)
+    {
+        if(frame==0)
+        {
+            dasher(2.8, 0, 0);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==630)
+    {
+        if(frame==0)
+        {
+            keymove(2.8);
+        }
+        if(frame==5)
+        {
+            stop();
+        }
+        return;
+    }
+    if(animhandle==633)
+    {
+        if(frame==3)
+        {
+            leaper(0, 1, 0);
+        }
+        return;
+    }
+    if(animhandle==634)
+    {
+        if(frame==1)
+        {
+            leaper(-1.5, 1.5, 0);
+        }
+        return;
+    }
+    if(animhandle==635)
+    {
+        if(frame==4)
+        {
+            leaper(0, 1.5, 0);
+        }
+        return;
+    }
+    if(animhandle==636)
+    {
+        if(frame==3)
+        {
+            flip();
+        }
+        if(frame==3)
+        {
+            takeact("common_grab");
+        }
+        if(frame==4)
+        {
+            fakeBind(14);
+        }
+        return;
+    }
+    if(animhandle==637)
+    {
+        if(frame==3)
+        {
+            flip();
+        }
+        if(frame==3)
+        {
+            takeact("common_grabattack");
+        }
+        return;
+    }
+    if(animhandle==640)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(5, -25, 5, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(40, -40, 0);
+        }
+        if(frame==1)
+        {
+            position(4, 0, 20, 0, 0);
+        }
+        if(frame==2)
+        {
+            depost(0);
+        }
+        if(frame==2)
+        {
+            throw(12, 2, -2, 1.5, 0, 0);
+        }
+        if(frame==3)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==641)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(5, -25, 5, 0, 1);
+        }
+        if(frame==0)
+        {
+            antiwall(40, -40, 0);
+        }
+        if(frame==1)
+        {
+            position(4, 0, 20, 0, 0);
+        }
+        if(frame==2)
+        {
+            depost(0);
+        }
+        if(frame==2)
+        {
+            throw(12, 2, 2, 1.5, 0, 0);
+        }
+        if(frame==3)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==642)
+    {
+        if(frame==7)
+        {
+            looper(4, 2);
+        }
+        return;
+    }
+    if(animhandle==647)
+    {
+        if(frame==1)
+        {
+            leaper(3.2, 2.6, 0);
+        }
+        if(frame==1)
+        {
+            keymoveZ(1.6);
+        }
+        return;
+    }
+    if(animhandle==649)
+    {
+        if(frame==0)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==1)
+        {
+            keymoveZ(2);
+        }
+        if(frame==11)
+        {
+            looper(1, 3);
+        }
+        return;
+    }
+    if(animhandle==650)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            leaper(0, 6, 0);
+        }
+        if(frame==3)
+        {
+            leaper(4, -2, 0);
+        }
+        if(frame==3)
+        {
+            keyVel();
+        }
+        return;
+    }
+    if(animhandle==651)
+    {
+        if(frame==0)
+        {
+            jump(0);
+        }
+        if(frame==0)
+        {
+            leaper(0, 3, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 20, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==3)
+        {
+            leaper(4, -2, 0);
+        }
+        if(frame==3)
+        {
+            keyVel();
+        }
+        return;
+    }
+    if(animhandle==652)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==653)
+    {
+        if(frame==1)
+        {
+            block(0);
+        }
+        if(frame==1)
+        {
+            dasher(1.5, 0, 0);
+        }
+        if(frame==5)
+        {
+            dasher(0.5, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==655)
+    {
+        if(frame==0)
+        {
+            spawnbind("landsafe", 0, 15, 1);
+        }
+        if(frame==0)
+        {
+            landsafe();
+        }
+        if(frame==0)
+        {
+            leaper(-1.3, 1.6, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/sammy/sammy_knife.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==656)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==662)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==669)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==1)
+        {
+            throweap(43, 43, -1, 3, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/sammy/sammy_sword.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==670)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==676)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==683)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==1)
+        {
+            throweap(39, 15, -1, 2, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/sammy/sammy_pipe.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==684)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==690)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==697)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==1)
+        {
+            throweap(43, 10, -1, 2, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==698)
+    {
+        if(frame==0)
+        {
+            leaper(1, 2, 0);
+        }
+        if(frame==11)
+        {
+            looper(3, 4);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/sammy/sammy_kunai.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==699)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==705)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==712)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==1)
+        {
+            throweap(42, 41, -1, 3, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==713)
+    {
+        if(frame==0)
+        {
+            leaper(3.2, 0, 0);
+        }
+        if(frame==0)
+        {
+            keymoveZ(3.2);
+        }
+        if(frame==4)
+        {
+            looper(2, 4);
+        }
+        if(frame==5)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==714)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            leaper(8, 0, 0);
+        }
+        if(frame==1)
+        {
+            keymoveZ(4);
+        }
+        if(frame==3)
+        {
+            keymoveZ(4);
+        }
+        if(frame==5)
+        {
+            looper(3, 5);
+        }
+        if(frame==6)
+        {
+            jump(1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/galsia/galsiaP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==718)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==719)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==727)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==731)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==732)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==733)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==734)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/galsia/galsia_knifeP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==742)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==748)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==750)
+    {
+        if(frame==0)
+        {
+            dasher(2, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==752)
+    {
+        if(frame==0)
+        {
+            dasher(2, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/donovan/donovanP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==754)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==755)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==761)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==765)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==766)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==767)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==768)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/donovan/donovan_pipeP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==777)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==782)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/signal/signalP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==788)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==789)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==796)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==800)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==801)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==802)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==803)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==809)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 24, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 12, 25, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -12, 25, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==810)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 24, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 12, 25, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -12, 25, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==811)
+    {
+        if(frame==1)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==2)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==3)
+        {
+            dasher(0.5, 0, 0);
+        }
+        if(frame==4)
+        {
+            dasher(0);
+        }
+        return;
+    }
+    if(animhandle==812)
+    {
+        if(frame==0)
+        {
+            antiwall(30, -30, -1);
+        }
+        if(frame==1)
+        {
+            tosser3("bottleP", 30, 40, 0, 2.5, 2.3, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/fog/fogP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==814)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==815)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==822)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==826)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==827)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==828)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==829)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/fog/fog_pipeP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==839)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==844)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/hakuyo/hakuyoP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==850)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==851)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==858)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==862)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==863)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==864)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==865)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==874)
+    {
+        if(frame==6)
+        {
+            looper(4, 12);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/hanzou/hanzou_evade.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==875)
+    {
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/hanzou/hanzouP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==877)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==878)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==886)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==890)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==891)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==892)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==893)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==900)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 20, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 10, 12, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -20, 30, 0, -1);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==901)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 20, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 10, 12, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -20, 30, 0, -1);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==904)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==1)
+        {
+            leaper(0, 5, 0);
+        }
+        if(frame==6)
+        {
+            looper(2, 1);
+        }
+        if(frame==7)
+        {
+            tosser5("starP", 40, 29, 0, 2, -0.5, 0, 0);
+        }
+        if(frame==7)
+        {
+            tosser5("starP", 40, 29, 0, 2, -2, 0, 0, 0);
+        }
+        if(frame==7)
+        {
+            tosser5("starP", 40, 29, 0, 2, -4.5, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==905)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==2)
+        {
+            shooter("starP", 46, 61, 0, 3, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==906)
+    {
+        if(frame==0)
+        {
+            keymove(2);
+        }
+        if(frame==0)
+        {
+            spawner2("hanzou_evade", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            spawner2("hanzou_evade", 0, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawner2("hanzou_evade", 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawner2("hanzou_evade", 0, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/hanzou/hanzou_kunaiP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==907)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==913)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==919)
+    {
+        if(frame==1)
+        {
+            leaper(4, 3.5, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/hanzou/hanzou_swordP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==920)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==926)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==932)
+    {
+        if(frame==1)
+        {
+            leaper(0, 4, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/raven/ravenP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==934)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==935)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==942)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==944)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==947)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==948)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==949)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==950)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==960)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==961)
+    {
+        if(frame==1)
+        {
+            leaper(1.5, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/Bigben/bigbenP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==963)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==964)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==972)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==975)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==976)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==977)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==978)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==985)
+    {
+        if(frame==1)
+        {
+            dasher(3, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==6)
+        {
+            looper(2, 3);
+        }
+        if(frame==6)
+        {
+            dasher(0, 0, 0);
+        }
+        if(frame==10)
+        {
+            looper(7, 6);
+        }
+        return;
+    }
+    if(animhandle==986)
+    {
+        if(frame==2)
+        {
+            dasher(3, 0, 0);
+        }
+        if(frame==2)
+        {
+            keymoveZ(3);
+        }
+        if(frame==3)
+        {
+            shooterB("bigben_fireP", 30, 70, 1);
+        }
+        if(frame==7)
+        {
+            looper(3, 3);
+        }
+        if(frame==7)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==8)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==9)
+        {
+            dasher(0.5, 0, 0);
+        }
+        if(frame==10)
+        {
+            dasher(0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==988)
+    {
+        if(frame==4)
+        {
+            looper(2, 2);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/Bigben/fire/fireP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==989)
+    {
+        if(frame==5)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        if(frame==25)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/electra/electraP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==991)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==992)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==999)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1003)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1004)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1005)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1006)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1016)
+    {
+        if(frame==1)
+        {
+            leaper(-2, 2, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/jack/jackP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1018)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1019)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1025)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1030)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1031)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1032)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1033)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1041)
+    {
+        if(frame==1)
+        {
+            shooter2("knifeJ", 33, 66, -1, 0, 2, 0);
+        }
+        if(frame==2)
+        {
+            spawnbind("knifeS", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            changemodel("jack_knifeP");
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/jack/jack_knifeP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1042)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1047)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1050)
+    {
+        if(frame==0)
+        {
+            antiwall(20, -20, -1);
+        }
+        if(frame==2)
+        {
+            throweap(76, 54, -1, 3, 0, 0);
+        }
+        if(frame==3)
+        {
+            resetmodel();
+        }
+        return;
+    }
+    if(animhandle==1051)
+    {
+        if(frame==3)
+        {
+            looper(1, 3);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/barbon/barbonP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1054)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1055)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1062)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1064)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 60, 0);
+        }
+        return;
+    }
+    if(animhandle==1067)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1068)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1069)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1070)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1077)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 25, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 15, 10, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(5, 10, 20, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(2, -15, 35, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==6)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1078)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 25, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-30, 30, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 15, 10, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(5, 10, 20, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(2, -15, 35, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==6)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1081)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==1082)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==8)
+        {
+            looper(1, 7);
+        }
+        return;
+    }
+    if(animhandle==1083)
+    {
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/jet/jetP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1087)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1088)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1092)
+    {
+        if(frame==0)
+        {
+            basechange(0);
+        }
+        if(frame==0)
+        {
+            landsafe();
+        }
+        if(frame==0)
+        {
+            leaper(-1.8, 1.8, 0);
+        }
+        if(frame==0)
+        {
+            keymoveX(1.8, 0, 0);
+        }
+        if(frame==0)
+        {
+            degravity(1);
+        }
+        if(frame==8)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1093)
+    {
+        if(frame==8)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==8)
+        {
+            degravity(1);
+        }
+        if(frame==16)
+        {
+            looper(12, 1);
+        }
+        if(frame==16)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1094)
+    {
+        if(frame==8)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==8)
+        {
+            degravity(1);
+        }
+        if(frame==16)
+        {
+            looper(12, 1);
+        }
+        if(frame==16)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1095)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==0)
+        {
+            degravity(0);
+        }
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==1096)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==0)
+        {
+            degravity(0);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1097)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==0)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1098)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==0)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1100)
+    {
+        if(frame==0)
+        {
+            degravity(0);
+        }
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==1101)
+    {
+        if(frame==0)
+        {
+            degravity(0);
+        }
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==1102)
+    {
+        if(frame==1)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==1)
+        {
+            degravity(1);
+        }
+        if(frame==4)
+        {
+            looper(2, 4);
+        }
+        if(frame==4)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1103)
+    {
+        if(frame==0)
+        {
+            leaper(0, -3, 0);
+        }
+        if(frame==3)
+        {
+            aniexec("ANI_FOLLOW2");
+        }
+        return;
+    }
+    if(animhandle==1104)
+    {
+        if(frame==0)
+        {
+            slamstart2();
+        }
+        if(frame==0)
+        {
+            position(0, 20, 10, 0, -1);
+        }
+        if(frame==0)
+        {
+            antiwall(30, -30, 0);
+        }
+        if(frame==1)
+        {
+            position(0, 20, 10, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 1, 0);
+        }
+        if(frame==2)
+        {
+            position(0, 20, 10, 0, 0);
+        }
+        if(frame==2)
+        {
+            leaper(0, 3, 0);
+        }
+        if(frame==3)
+        {
+            position(0, 20, 10, 0, 0);
+        }
+        if(frame==3)
+        {
+            leaper(0, 9, 0);
+        }
+        if(frame==4)
+        {
+            looper(3, 11);
+        }
+        if(frame==4)
+        {
+            position(4, 20, -1, 0, 0);
+        }
+        if(frame==4)
+        {
+            degravity(-90);
+        }
+        if(frame==4)
+        {
+            leaper(0, -90, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==6)
+        {
+            depost(0);
+        }
+        if(frame==6)
+        {
+            finish(48, 2, -3, 3, 0, 0);
+        }
+        if(frame==7)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==8)
+        {
+            looper(7, 3);
+        }
+        if(frame==8)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==8)
+        {
+            degravity(1);
+        }
+        if(frame==16)
+        {
+            looper(12, 1);
+        }
+        if(frame==16)
+        {
+            degravity(0);
+        }
+        if(frame==23)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1105)
+    {
+        if(frame==4)
+        {
+            keyflip();
+        }
+        if(frame==4)
+        {
+            dasher(0.5, 0, 0);
+        }
+        if(frame==5)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==6)
+        {
+            dasher(3.5, 0, 0);
+        }
+        if(frame==7)
+        {
+            dasher(7, 0, 0);
+        }
+        if(frame==8)
+        {
+            keymoveZ(3.5);
+        }
+        if(frame==12)
+        {
+            looper(8, 3);
+        }
+        if(frame==12)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==12)
+        {
+            degravity(1);
+        }
+        if(frame==20)
+        {
+            looper(16, 1);
+        }
+        if(frame==20)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1106)
+    {
+        if(frame==4)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==4)
+        {
+            degravity(1);
+        }
+        if(frame==12)
+        {
+            looper(8, 1);
+        }
+        if(frame==12)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1107)
+    {
+        if(frame==0)
+        {
+            leaper(0, -3, 0);
+        }
+        if(frame==3)
+        {
+            aniexec("ANI_FOLLOW3");
+        }
+        return;
+    }
+    if(animhandle==1108)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 14, 16, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==6)
+        {
+            keyflip();
+        }
+        if(frame==6)
+        {
+            dasher(14, 0, 0);
+        }
+        if(frame==6)
+        {
+            keymoveZ(7);
+        }
+        if(frame==10)
+        {
+            looper(8, 2);
+        }
+        if(frame==10)
+        {
+            dasher(4, 0, 0);
+        }
+        if(frame==11)
+        {
+            dasher(3, 0, 0);
+        }
+        if(frame==12)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==13)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==14)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==14)
+        {
+            degravity(1);
+        }
+        if(frame==18)
+        {
+            looper(16, 4);
+        }
+        if(frame==18)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1109)
+    {
+        if(frame==0)
+        {
+            slamstart2();
+        }
+        if(frame==0)
+        {
+            position(0, 20, 10, 0, -1);
+        }
+        if(frame==0)
+        {
+            antiwall(30, -30, 0);
+        }
+        if(frame==0)
+        {
+            stop();
+        }
+        if(frame==1)
+        {
+            position(0, 20, 10, 0, 0);
+        }
+        if(frame==1)
+        {
+            leaper(0, 3, 0);
+        }
+        if(frame==2)
+        {
+            position(0, 20, 10, 0, 0);
+        }
+        if(frame==2)
+        {
+            leaper(0, 9, 0);
+        }
+        if(frame==3)
+        {
+            position(0, 20, 10, 0, 0);
+        }
+        if(frame==3)
+        {
+            leaper(0, 18, 0);
+        }
+        if(frame==4)
+        {
+            looper(3, 11);
+        }
+        if(frame==4)
+        {
+            position(4, 20, -1, 0, 0);
+        }
+        if(frame==4)
+        {
+            degravity(-2000);
+        }
+        if(frame==4)
+        {
+            leaper(0, -1500, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawn01("fall", 10, 0, 1);
+        }
+        if(frame==6)
+        {
+            depost(0);
+        }
+        if(frame==6)
+        {
+            finish(80, 2, -3, 6, 0, 0);
+        }
+        if(frame==7)
+        {
+            dasher(4, 0, 0);
+        }
+        if(frame==8)
+        {
+            looper(7, 3);
+        }
+        if(frame==8)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==8)
+        {
+            degravity(1);
+        }
+        if(frame==16)
+        {
+            looper(12, 1);
+        }
+        if(frame==16)
+        {
+            degravity(0);
+        }
+        if(frame==23)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1110)
+    {
+        if(frame==0)
+        {
+            leaper(4, -4, 0);
+        }
+        if(frame==6)
+        {
+            leaper(4, 0, 0);
+        }
+        if(frame==10)
+        {
+            looper(6, 3);
+        }
+        if(frame==10)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==10)
+        {
+            degravity(1);
+        }
+        if(frame==18)
+        {
+            looper(14, 1);
+        }
+        if(frame==18)
+        {
+            degravity(0);
+        }
+        return;
+    }
+    if(animhandle==1111)
+    {
+        if(frame==0)
+        {
+            leaper(0, 1.8, 0);
+        }
+        if(frame==0)
+        {
+            degravity(1);
+        }
+        if(frame==8)
+        {
+            looper(5, 1);
+        }
+        if(frame==8)
+        {
+            degravity(0);
+        }
+        if(frame==11)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/zamza/zamzaP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1114)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1115)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1122)
+    {
+        if(frame==9)
+        {
+            looper(1, 2);
+        }
+        return;
+    }
+    if(animhandle==1123)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1125)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1128)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1129)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1130)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1131)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1137)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 30, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, -10, 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -50, 30, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(4, -60, -1, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            finish(18, 2, 2, 3, 0, 0);
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1138)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 30, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, -10, 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -50, 30, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(4, -60, -1, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            finish(18, 2, 2, 3, 0, 0);
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1139)
+    {
+        if(frame==2)
+        {
+            leaper(6, 2, 0);
+        }
+        if(frame==2)
+        {
+            keymoveZ(3);
+        }
+        if(frame==11)
+        {
+            leaper(0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1140)
+    {
+        if(frame==1)
+        {
+            leaper(1.5, 3.2, 0);
+        }
+        if(frame==7)
+        {
+            leaper(0);
+        }
+        if(frame==9)
+        {
+            landframe();
+        }
+        return;
+    }
+    if(animhandle==1141)
+    {
+        if(frame==1)
+        {
+            leaper(1, 4, 0);
+        }
+        if(frame==2)
+        {
+            leaper(3, -2, 0);
+        }
+        return;
+    }
+    if(animhandle==1142)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==1143)
+    {
+        if(frame==1)
+        {
+            dasher(6, 0, 0);
+        }
+        if(frame==1)
+        {
+            keymoveZ(3);
+        }
+        if(frame==1)
+        {
+            spawn01("dust", 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            dasher(4);
+        }
+        if(frame==3)
+        {
+            dasher(3);
+        }
+        if(frame==4)
+        {
+            dasher(2);
+        }
+        if(frame==5)
+        {
+            dasher(1);
+        }
+        if(frame==6)
+        {
+            dasher(0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1144)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==4)
+        {
+            spawn01("xcut2", 75, 40, 1);
+        }
+        if(frame==7)
+        {
+            spawn01("xcut1", 75, 40, 1);
+        }
+        if(frame==8)
+        {
+            looper(2, 7);
+        }
+        if(frame==10)
+        {
+            spawn01("xcut2", 75, 40, 1);
+        }
+        if(frame==12)
+        {
+            spawn01("xcut3", 75, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1145)
+    {
+        if(frame==1)
+        {
+            leaper(1.5, 3.2, 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        if(frame==7)
+        {
+            leaper(0);
+        }
+        if(frame==9)
+        {
+            landframe();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/abadede/abadedeP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1149)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1150)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1152)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1158)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1159)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1162)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1163)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1164)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1165)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1172)
+    {
+        if(frame==0)
+        {
+            flip();
+        }
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, -30, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(60, -60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, -20, 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, 60, 20, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1173)
+    {
+        if(frame==0)
+        {
+            flip();
+        }
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, -30, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(60, -60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, -20, 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, 60, 20, 0, 0);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1175)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 26, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-80, 80, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 0, 28, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(2, -45, 35, 0, 0);
+        }
+        if(frame==3)
+        {
+            position(4, -80, -1, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            finish(18, 2, 2, 3, 0, 0);
+        }
+        if(frame==5)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1176)
+    {
+        if(frame==0)
+        {
+            dasher(4, 0, 0);
+        }
+        if(frame==0)
+        {
+            keymoveZ(2);
+        }
+        if(frame==3)
+        {
+            dasher(0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1179)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, -1, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==4)
+        {
+            dasher(8, 0, 0);
+        }
+        if(frame==4)
+        {
+            keymoveZ(4);
+        }
+        if(frame==5)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==8)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==10)
+        {
+            looper(5, 2);
+        }
+        if(frame==11)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1180)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            dasher(3, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            dasher(0, 0, 0);
+        }
+        if(frame==11)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/bear/bearP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1183)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1184)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1192)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1193)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1196)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1197)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1198)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1199)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1210)
+    {
+        if(frame==3)
+        {
+            leaper(0, 3, 0);
+        }
+        if(frame==6)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1211)
+    {
+        if(frame==1)
+        {
+            dasher(2.5, 0, 0);
+        }
+        if(frame==1)
+        {
+            keymoveZ(2.5);
+        }
+        if(frame==3)
+        {
+            dasher(0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1212)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==2)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            leaper(5, 4, 0);
+        }
+        if(frame==6)
+        {
+            leaper(0, 0, 0);
+        }
+        if(frame==7)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/harakiri/firewave/firewave.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1213)
+    {
+        if(frame==11)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/harakiri/harakiri_blitz.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1215)
+    {
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/harakiri/harakiriP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1217)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1218)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1225)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1226)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1227)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1231)
+    {
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1239)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 39, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 30, 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, 10, 60, 0, -1);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 4, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1240)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 39, 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 30, 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, 10, 60, 0, -1);
+        }
+        if(frame==3)
+        {
+            depost(0);
+        }
+        if(frame==3)
+        {
+            throw(12, 2, 2, 4, 0, 0);
+        }
+        if(frame==4)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1241)
+    {
+        if(frame==0)
+        {
+            dasher(3, 0, 0);
+        }
+        if(frame==0)
+        {
+            keymoveZ(3);
+        }
+        if(frame==0)
+        {
+            spawner2("harakiri_blitz", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            spawner2("harakiri_blitz", 0, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawner2("harakiri_blitz", 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawner2("harakiri_blitz", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            dasher(2);
+        }
+        if(frame==4)
+        {
+            spawner2("harakiri_blitz", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            dasher(1);
+        }
+        if(frame==6)
+        {
+            dasher(0, 0, 0);
+        }
+        if(frame==7)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1242)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==1243)
+    {
+        if(frame==0)
+        {
+            antiwall(40, -40, -1);
+        }
+        if(frame==1)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==1)
+        {
+            shooter("giant_starP", 60, 50, 0, 3, 0, 0);
+        }
+        if(frame==1)
+        {
+            shooter("giant_starP", 60, 50, 0, 3, 0, 1);
+        }
+        if(frame==1)
+        {
+            shooter("giant_starP", 60, 50, 0, 3, 0, 2);
+        }
+        if(frame==2)
+        {
+            dasher(0.2, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1244)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==1245)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", -17, -1, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", -10, 0, 1);
+        }
+        if(frame==1)
+        {
+            shooter("harakiri_firewaveP", -40, 0, 0, 4, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1246)
+    {
+        if(frame==1)
+        {
+            block(0);
+        }
+        if(frame==1)
+        {
+            dasher(1.5, 0, 0);
+        }
+        if(frame==2)
+        {
+            dasher(0.5, 0, 0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/harakiri/firewave/firewaveP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1247)
+    {
+        if(frame==11)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/particle/particleP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1250)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1251)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1256)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1257)
+    {
+        if(frame==0)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1260)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1261)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1262)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1263)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1267)
+    {
+        if(frame==0)
+        {
+            spawn01("particle_explosionP", 0, 0, 0);
+        }
+        if(frame==0)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==1)
+        {
+            spawn01("particle_explosionP", -30, 0, 0);
+        }
+        if(frame==1)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawn01("particle_explosionP", 30, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("particle_explosionP", 0, 30, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1271)
+    {
+        if(frame==7)
+        {
+            looper(5, 7);
+        }
+        if(frame==8)
+        {
+            shooter("particle_laserP", 0, 0, 0, 6, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1272)
+    {
+        if(frame==31)
+        {
+            anichange("ANI_FOLLOW1");
+        }
+        return;
+    }
+    if(animhandle==1273)
+    {
+        if(frame==32)
+        {
+            anichange("ANI_FOLLOW2");
+        }
+        return;
+    }
+    if(animhandle==1274)
+    {
+        if(frame==32)
+        {
+            anichange("ANI_FOLLOW3");
+        }
+        return;
+    }
+    if(animhandle==1276)
+    {
+        if(frame==4)
+        {
+            leaper(0, 2, 0);
+        }
+        if(frame==4)
+        {
+            keymove(2);
+        }
+        if(frame==6)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1277)
+    {
+        if(frame==4)
+        {
+            leaper(0, 4, 0);
+        }
+        if(frame==4)
+        {
+            keymove(3);
+        }
+        if(frame==9)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1278)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, 0, -1);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==8)
+        {
+            shooter("particle_laserRP", 0, 0, 0, 9, 0, 0);
+        }
+        if(frame==9)
+        {
+            looper(7, 7);
+        }
+        return;
+    }
+    if(animhandle==1279)
+    {
+        if(frame==4)
+        {
+            looper(0, 4);
+        }
+        if(frame==4)
+        {
+            hurtselfHP(20);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/particle/explosion/explosionP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1282)
+    {
+        if(frame==83)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/shiva/shiva_dodge.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1286)
+    {
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/shiva/shiva_rise.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1287)
+    {
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/shiva/shivaP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1289)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1290)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1294)
+    {
+        if(frame==0)
+        {
+            vaultStuck(40, 40, 20);
+        }
+        return;
+    }
+    if(animhandle==1296)
+    {
+        if(frame==0)
+        {
+            landsafe();
+        }
+        return;
+    }
+    if(animhandle==1299)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1301)
+    {
+        if(frame==0)
+        {
+            spawnbind("break", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1304)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1305)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1306)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1307)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1309)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==1310)
+    {
+        if(frame==1)
+        {
+            cancelfall("ANI_LAND");
+        }
+        return;
+    }
+    if(animhandle==1311)
+    {
+        if(frame==1)
+        {
+            leaper(1, 2, 0);
+        }
+        return;
+    }
+    if(animhandle==1312)
+    {
+        if(frame==1)
+        {
+            leaper(6, 2, 0);
+        }
+        if(frame==4)
+        {
+            jump(1);
+        }
+        if(frame==4)
+        {
+            spawner2("shiva_rise", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawner2("shiva_rise", 0, 0, 0);
+        }
+        if(frame==6)
+        {
+            spawner2("shiva_rise", 0, 0, 0);
+        }
+        if(frame==7)
+        {
+            spawner2("shiva_rise", 0, 0, 0);
+        }
+        if(frame==8)
+        {
+            spawner2("shiva_rise", 0, 0, 0);
+        }
+        if(frame==9)
+        {
+            spawner2("shiva_rise", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1313)
+    {
+        if(frame==1)
+        {
+            leaper(0, 2, 0);
+        }
+        if(frame==1)
+        {
+            keymove(3);
+        }
+        if(frame==1)
+        {
+            spawner2("shiva_dodge", 0, 0, 0);
+        }
+        if(frame==2)
+        {
+            spawner2("shiva_dodge", 0, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawner2("shiva_dodge", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            spawner2("shiva_dodge", 0, 0, 0);
+        }
+        if(frame==5)
+        {
+            spawner2("shiva_dodge", 0, 0, 0);
+        }
+        if(frame==6)
+        {
+            spawner2("shiva_dodge", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1318)
+    {
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            takeact("common_grab");
+        }
+        if(frame==6)
+        {
+            fakeBind(31);
+        }
+        return;
+    }
+    if(animhandle==1319)
+    {
+        if(frame==5)
+        {
+            flip();
+        }
+        if(frame==5)
+        {
+            takeact("common_grabattack");
+        }
+        return;
+    }
+    if(animhandle==1322)
+    {
+        if(frame==0)
+        {
+            slamstart();
+        }
+        if(frame==0)
+        {
+            position(0, 20, 0, 0, 1);
+        }
+        if(frame==0)
+        {
+            antiwall(-60, 60, 0);
+        }
+        if(frame==1)
+        {
+            position(5, 0, 40, 0, 0);
+        }
+        if(frame==2)
+        {
+            position(4, -25, 50, 0, 1);
+        }
+        if(frame==3)
+        {
+            position(4, -45, -1, 0, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_high", 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            position(4, -60, 0, 0, 0);
+        }
+        if(frame==4)
+        {
+            depost(0);
+        }
+        if(frame==4)
+        {
+            finish(18, 2, -2, 3, 0, 0);
+        }
+        if(frame==4)
+        {
+            leaper(1, 3, 0);
+        }
+        if(frame==6)
+        {
+            landframe();
+        }
+        if(frame==7)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1325)
+    {
+        if(frame==0)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==1)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==2)
+        {
+            dasher(0.5, 0, 0);
+        }
+        if(frame==3)
+        {
+            dasher(0, 0, 0);
+        }
+        if(frame==9)
+        {
+            leaper(1, 2.2, 0);
+        }
+        if(frame==10)
+        {
+            flip();
+        }
+        return;
+    }
+    if(animhandle==1328)
+    {
+        if(frame==0)
+        {
+            block(1);
+        }
+        if(frame==1)
+        {
+            looperKey("attack4", 0);
+        }
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+    if(animhandle==1329)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, -1, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==2)
+        {
+            shooter("shiva_orbP", 90, 50, 0, 6, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1330)
+    {
+        if(frame==0)
+        {
+            spawnbind("rage", 0, -1, 0);
+        }
+        if(frame==0)
+        {
+            spawnbind("ragefull", 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            dasher(6, 0, 0);
+        }
+        if(frame==1)
+        {
+            keymoveZ(3);
+        }
+        if(frame==4)
+        {
+            looper(2, 7);
+        }
+        if(frame==4)
+        {
+            dasher(2, 0, 0);
+        }
+        if(frame==5)
+        {
+            dasher(1, 0, 0);
+        }
+        if(frame==6)
+        {
+            dasher(0.5, 0, 0);
+        }
+        if(frame==7)
+        {
+            dasher(0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1331)
+    {
+        if(frame==5)
+        {
+            looper(1, 8);
+        }
+        if(frame==8)
+        {
+            looper(6, 5);
+        }
+        if(frame==9)
+        {
+            dasher(0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1332)
+    {
+        if(frame==1)
+        {
+            block(0);
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/shiva/orb/orbP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1339)
+    {
+        if(frame==1)
+        {
+            suicide();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/mrx/mrxP.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1341)
+    {
+        if(frame==4)
+        {
+            looper(2, 8);
+        }
+        return;
+    }
+    if(animhandle==1342)
+    {
+        if(frame==0)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1347)
+    {
+        if(frame==0)
+        {
+            jump(1);
+        }
+        return;
+    }
+    if(animhandle==1351)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1352)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        if(frame==1)
+        {
+            spawn01("smoke", 0, 50, 0);
+        }
+        return;
+    }
+    if(animhandle==1353)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1354)
+    {
+        if(frame==0)
+        {
+            depost(0);
+        }
+        if(frame==0)
+        {
+            finish(0, 1, 1, 0, 0, 1);
+        }
+        return;
+    }
+    if(animhandle==1358)
+    {
+        if(frame==2)
+        {
+            leaper(-0.5, 1, 0);
+        }
+        if(frame==3)
+        {
+            spawn01("quake_low", 0, 0, 0);
+        }
+        return;
+    }
+    if(animhandle==1361)
+    {
+        if(frame==0)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==0)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==2)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==2)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==4)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==4)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==6)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==6)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==8)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1362)
+    {
+        if(frame==0)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==0)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==2)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==2)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==4)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==4)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==6)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==6)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==8)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1363)
+    {
+        if(frame==0)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==0)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==2)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==2)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==4)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==4)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==6)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==6)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==8)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1364)
+    {
+        if(frame==0)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==0)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==2)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==2)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==4)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==4)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==6)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==6)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==8)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 3);
+        }
+        if(frame==8)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==10)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 6);
+        }
+        if(frame==10)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==12)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==12)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==14)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==14)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==16)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 6, 0, 10);
+        }
+        if(frame==16)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==18)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 3, 0, 10);
+        }
+        if(frame==18)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==20)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==20)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==22)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==22)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==24)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 3, 0, 10);
+        }
+        if(frame==24)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==26)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 6, 0, 10);
+        }
+        if(frame==26)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==28)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==28)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==30)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==30)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==32)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 6);
+        }
+        if(frame==32)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==34)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 3);
+        }
+        if(frame==34)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==36)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==36)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==38)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==38)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==40)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1365)
+    {
+        if(frame==0)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==0)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==2)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==2)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==4)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==4)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==6)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==6)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==8)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 3);
+        }
+        if(frame==8)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==10)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 6);
+        }
+        if(frame==10)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==12)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==12)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==14)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==14)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==16)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 6, 0, 10);
+        }
+        if(frame==16)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==18)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 3, 0, 10);
+        }
+        if(frame==18)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==20)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==20)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==22)
+        {
+            shooter("mrx_shot3", 0, 0, 0, 0, 0, 10);
+        }
+        if(frame==22)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==24)
+        {
+            flip();
+        }
+        if(frame==24)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 3, 0, 10);
+        }
+        if(frame==24)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==26)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 6, 0, 10);
+        }
+        if(frame==26)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==28)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==28)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==30)
+        {
+            shooter("mrx_shot2", 0, 0, 0, 10, 0, 10);
+        }
+        if(frame==30)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==32)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 6);
+        }
+        if(frame==32)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1, 0);
+        }
+        if(frame==34)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 3);
+        }
+        if(frame==34)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.4, 1.2, 0);
+        }
+        if(frame==36)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==36)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.6, 0.8, 0);
+        }
+        if(frame==38)
+        {
+            shooter("mrx_shot1", 0, 0, 0, 10, 0, 0);
+        }
+        if(frame==38)
+        {
+            tosser4("mrx_bullet", 10, 60, 0, 0.2, 1.4, 0);
+        }
+        if(frame==40)
+        {
+            clearL();
+        }
+        return;
+    }
+    if(animhandle==1366)
+    {
+        if(frame==6)
+        {
+            looper(1, 5);
+        }
+        return;
+    }
+    if(animhandle==1367)
+    {
+        if(frame==0)
+        {
+            stop();
+        }
+        if(frame==0)
+        {
+            addmp(20);
+        }
+        if(frame==2)
+        {
+            clearL();
+        }
+        return;
+    }
+
+}
+
+#### animationscript function main #####
+# data/chars/mrx/shot/bullet.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==1371)
+    {
+        if(frame==4)
+        {
+            hurtself(1);
+        }
+        return;
+    }
+
+}

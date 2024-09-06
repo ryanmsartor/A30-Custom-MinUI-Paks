@@ -1,0 +1,1523 @@
+Total Ram:   522371072 Bytes (   498 MB )
+ Free Ram:   479592448 Bytes (   457 MB )
+ Used Ram:     1167360 Bytes (     1 MB )
+
+debug:nativeWidth, nativeHeight, bpp, Hz  0, 0, 0, 0
+OpenBoR v4.0 Build 0 (commit hash: b00efbc), Compile Date: Jun 21 2024
+
+Game Selected: /mnt/SDCARD/Roms/Open BOR (OPENBOR)/Streets of Rage 2X.pak
+
+Loaded mapping for Keyboard
+FileCaching System Init......	Enabled
+Initializing video............
+Reading video settings from 'data/video.txt'.
+Initialized video.............	480x272 (Mode: 1)
+
+Loading menu.txt.............	Done!
+Loading fonts................	1 2 3 4 5 6 7 8 9 10 Done!
+Timer init...................	Done!
+Initialize Sound..............	
+Loading sprites..............	Done!
+Loading level order..........	Done!
+Loading model constants......	Done!
+Loading script settings......	Done!
+Loading scripts..............	Done!
+Loading models...............
+
+Loaded 32-bit background 'data/bgs/loading'
+Cacheing 'Flash' from data/chars/misc/flash/flash.txt
+Cacheing 'MetalFlash' from data/chars/misc/metalflash/metalflash.txt
+Cacheing 'Blood' from data/chars/misc/blood/blood.txt
+Cacheing 'Break' from data/chars/misc/break/break.txt
+Cacheing 'Burn' from data/chars/misc/burn/burn.txt
+Cacheing 'Shock' from data/chars/misc/shock/shock.txt
+Cacheing 'Explosion' from data/chars/misc/explosion/explosion.txt
+Cacheing 'Smoke' from data/chars/misc/smoke/smoke.txt
+Cacheing 'Quake_Low' from data/chars/misc/quake/quake_low.txt
+Cacheing 'Quake_High' from data/chars/misc/quake/quake_high.txt
+Cacheing 'Block' from data/chars/misc/block/block.txt
+Cacheing 'Dust' from data/chars/misc/dust/dust.txt
+Cacheing 'Fall' from data/chars/misc/fall/fall.txt
+Cacheing 'Landsafe' from data/chars/misc/landsafe/landsafe.txt
+Cacheing 'Xcut1' from data/chars/misc/xcut/xcut1.txt
+Cacheing 'Xcut2' from data/chars/misc/xcut/xcut2.txt
+Cacheing 'Xcut3' from data/chars/misc/xcut/xcut3.txt
+Cacheing 'Impact' from data/chars/misc/impact/impact.txt
+Cacheing 'LaserHit' from data/chars/misc/laserhit/laserhit.txt
+Cacheing 'Crowd' from data/chars/misc/dust/crowd.txt
+Cacheing 'Splash' from data/chars/misc/splash/splash.txt
+Cacheing 'Water' from data/chars/misc/water/water.txt
+Cacheing 'Counter' from data/chars/misc/counter/counter.txt
+Cacheing 'Countdown' from data/chars/misc/countdown/countdown.txt
+Cacheing 'Rage' from data/chars/misc/rage/rage.txt
+Cacheing 'RageFull' from data/chars/misc/ragefull/ragefull.txt
+Cacheing 'RageFull_Bar1' from data/chars/misc/ragefull/ragefull_bar1.txt
+Cacheing 'RageFull_Bar2' from data/chars/misc/ragefull/ragefull_bar2.txt
+Cacheing 'RageFull_Bar3' from data/chars/misc/ragefull/ragefull_bar3.txt
+Cacheing 'RageFull_Bar4' from data/chars/misc/ragefull/ragefull_bar4.txt
+Cacheing 'Bar_Mask1' from data/chars/misc/barmask/bar_mask1.txt
+Cacheing 'Bar_Mask2' from data/chars/misc/barmask/bar_mask2.txt
+Cacheing 'Bar_Mask3' from data/chars/misc/barmask/bar_mask3.txt
+Cacheing 'Bar_Mask4' from data/chars/misc/barmask/bar_mask4.txt
+Cacheing 'Bar_Mask1b' from data/chars/misc/barmask/bar_mask1b.txt
+Cacheing 'Bar_Mask2b' from data/chars/misc/barmask/bar_mask2b.txt
+Cacheing 'Bar_Mask3b' from data/chars/misc/barmask/bar_mask3b.txt
+Cacheing 'Bar_Mask4b' from data/chars/misc/barmask/bar_mask4b.txt
+Cacheing 'Knife' from data/chars/weapons/knife.txt
+Cacheing 'KnifeT' from data/chars/weapons/knifeT.txt
+Cacheing 'KnifeJ' from data/chars/weapons/knifeJ.txt
+Cacheing 'KnifeS' from data/chars/weapons/knifeS.txt
+Cacheing 'Star' from data/chars/weapons/star.txt
+Cacheing 'Star99' from data/chars/weapons/star99.txt
+Cacheing 'StarP' from data/chars/weapons/starP.txt
+Cacheing 'Giant_Star' from data/chars/weapons/giant_star.txt
+Cacheing 'Giant_Star99' from data/chars/weapons/giant_star99.txt
+Cacheing 'Giant_StarP' from data/chars/weapons/giant_starP.txt
+Cacheing 'Sword' from data/chars/weapons/sword.txt
+Cacheing 'SwordT' from data/chars/weapons/swordT.txt
+Cacheing 'Pipe' from data/chars/weapons/pipe.txt
+Cacheing 'PipeT' from data/chars/weapons/pipeT.txt
+Cacheing 'Kunai' from data/chars/weapons/kunai.txt
+Cacheing 'KunaiT' from data/chars/weapons/kunaiT.txt
+Cacheing 'Bottle' from data/chars/weapons/bottle.txt
+Cacheing 'Bottle99' from data/chars/weapons/bottle99.txt
+Cacheing 'BottleP' from data/chars/weapons/bottleP.txt
+Cacheing 'Bottle_Broken1' from data/chars/weapons/bottle_broken1.txt
+Cacheing 'Bottle_Broken2' from data/chars/weapons/bottle_broken2.txt
+Cacheing 'Grenade' from data/chars/weapons/grenade.txt
+Cacheing '1up' from data/chars/itens/1up.txt
+Cacheing 'Apple' from data/chars/itens/apple.txt
+Cacheing 'Cash' from data/chars/itens/cash.txt
+Cacheing 'Chicken' from data/chars/itens/chicken.txt
+Cacheing 'Gold' from data/chars/itens/gold.txt
+Cacheing 'NoItem' from data/chars/itens/noitem.txt
+Cacheing 'Arcade' from data/chars/obstacles/arcade.txt
+Cacheing 'Bin' from data/chars/obstacles/bin.txt
+Cacheing 'Box' from data/chars/obstacles/box.txt
+Cacheing 'Cart' from data/chars/obstacles/cart.txt
+Cacheing 'Chair' from data/chars/obstacles/chair.txt
+Cacheing 'Barrel' from data/chars/obstacles/barrel.txt
+Cacheing 'Egg' from data/chars/obstacles/egg.txt
+Cacheing 'Egg_Explosion' from data/chars/obstacles/egg_explosion.txt
+Cacheing 'Menu' from data/chars/obstacles/menu.txt
+Cacheing 'RoadBlock' from data/chars/obstacles/roadblock.txt
+Cacheing 'Sandbag' from data/chars/obstacles/sandbag.txt
+Cacheing 'Table' from data/chars/obstacles/table.txt
+Cacheing 'Tire' from data/chars/obstacles/tire.txt
+Cacheing 'Tree_Slow' from data/chars/obstacles/tree_slow.txt
+Cacheing 'Tree_Fast' from data/chars/obstacles/tree_fast.txt
+Cacheing 'Trash' from data/chars/obstacles/trash.txt
+Cacheing 'Vase' from data/chars/obstacles/vase.txt
+Cacheing 'Select_Back' from data/bgs/select/select_back.txt
+Cacheing 'Select_GradeP1' from data/bgs/select/gradeP1.txt
+Cacheing 'Select_GradeP2' from data/bgs/select/gradeP2.txt
+Cacheing 'Select_GradeP3' from data/bgs/select/gradeP3.txt
+Cacheing 'Select_GradeP4' from data/bgs/select/gradeP4.txt
+Cacheing 'Portrait_Axel' from data/bgs/select/portrait_axel.txt
+Cacheing 'Portrait_Blaze' from data/bgs/select/portrait_blaze.txt
+Cacheing 'Portrait_Max' from data/bgs/select/portrait_max.txt
+Cacheing 'Portrait_Sammy' from data/bgs/select/portrait_sammy.txt
+Cacheing 'Portrait_Bright0' from data/bgs/select/bright0.txt
+Cacheing 'Portrait_Bright1' from data/bgs/select/bright1.txt
+Cacheing 'Chosen' from data/bgs/select/chosen.txt
+Cacheing 'St1_Dunk_a' from data/bgs/st1/dunk_a.txt
+Cacheing 'St1_Dunk_b' from data/bgs/st1/dunk_b.txt
+Cacheing 'St1_Rim' from data/bgs/st1/rim.txt
+Cacheing 'St1_Grade' from data/bgs/st1/grade.txt
+Cacheing 'St1_Lamp' from data/bgs/st1/lamp.txt
+Cacheing 'St1_Light' from data/bgs/st1/light.txt
+Cacheing 'St1_Manhole' from data/bgs/st1/manhole.txt
+Cacheing 'St1_Gate' from data/bgs/st1/gate.txt
+Cacheing 'St1_Rain' from data/bgs/st1/rain.txt
+Cacheing 'St1_Ray' from data/bgs/st1/ray.txt
+Cacheing 'St1_Thunder' from data/bgs/st1/thunder.txt
+Cacheing 'St1_Drop' from data/bgs/st1/drop.txt
+Cacheing 'St2_City1' from data/bgs/st2/city1.txt
+Cacheing 'St2_City2' from data/bgs/st2/city2.txt
+Cacheing 'St2_Truck' from data/bgs/st2/truck.txt
+Cacheing 'St2_RearTruck' from data/bgs/st2/reartruck.txt
+Cacheing 'St2_Lamp' from data/bgs/st2/lamp.txt
+Cacheing 'St3_Entrance1' from data/bgs/st3/entrance1.txt
+Cacheing 'St3_Entrance2' from data/bgs/st3/entrance2.txt
+Cacheing 'St3_Entrance3' from data/bgs/st3/entrance3.txt
+Cacheing 'St3_Entrance3S' from data/bgs/st3/entrance3S.txt
+Cacheing 'St3_Fliper' from data/bgs/st3/fliper.txt
+Cacheing 'St3_Grade' from data/bgs/st3/grade.txt
+Cacheing 'St3_Lamp1' from data/bgs/st3/lamp1.txt
+Cacheing 'St3_Lamp2' from data/bgs/st3/lamp2.txt
+Cacheing 'St3_Lamp3' from data/bgs/st3/lamp3.txt
+Cacheing 'St3_Lamp4' from data/bgs/st3/lamp4.txt
+Cacheing 'St3_Gate' from data/bgs/st3/gate.txt
+Cacheing 'St4_People' from data/bgs/st4/people.txt
+Cacheing 'St5_Panel1' from data/bgs/st5/panel1.txt
+Cacheing 'St5_Panel2' from data/bgs/st5/panel2.txt
+Cacheing 'St6_Beach' from data/bgs/st6/beach.txt
+Cacheing 'St6_Grade' from data/bgs/st6/grade.txt
+Cacheing 'St7_Machine1' from data/bgs/st7/machine1.txt
+Cacheing 'St7_Machine1S' from data/bgs/st7/machine1S.txt
+Cacheing 'St7_Machine2' from data/bgs/st7/machine2.txt
+Cacheing 'St7_Machine2S' from data/bgs/st7/machine2S.txt
+Cacheing 'St7_Elevator' from data/bgs/st7/elevator.txt
+Cacheing 'St7_ElevatorS' from data/bgs/st7/elevatorS.txt
+Cacheing 'St7_Backchange' from data/bgs/st7/backchange.txt
+Cacheing 'St8_Elevator' from data/bgs/st8/elevator.txt
+Cacheing 'St8_ElevatorS' from data/bgs/st8/elevatorS.txt
+Cacheing 'Axel' from data/chars/axel/axel.txt
+Cacheing 'Axel_Burn' from data/chars/axel/burn/burn.txt
+Cacheing 'Axel_Slash' from data/chars/axel/slash/slash.txt
+Cacheing 'Axel_Knife' from data/chars/axel/axel_knife.txt
+Cacheing 'Axel_Sword' from data/chars/axel/axel_sword.txt
+Cacheing 'Axel_Pipe' from data/chars/axel/axel_pipe.txt
+Cacheing 'Axel_Kunai' from data/chars/axel/axel_kunai.txt
+Cacheing 'AxelS' from data/chars/axel/axelS.txt
+Cacheing 'AxelSW' from data/chars/axel/axelSW.txt
+Cacheing 'Blaze' from data/chars/blaze/blaze.txt
+Cacheing 'Blaze_Knife' from data/chars/blaze/blaze_knife.txt
+Cacheing 'Blaze_Sword' from data/chars/blaze/blaze_sword.txt
+Cacheing 'Blaze_Pipe' from data/chars/blaze/blaze_pipe.txt
+Cacheing 'Blaze_Kunai' from data/chars/blaze/blaze_kunai.txt
+Cacheing 'Blaze_Orb' from data/chars/blaze/orb/orb.txt
+Cacheing 'BlazeS' from data/chars/blaze/blazeS.txt
+Cacheing 'BlazeSW' from data/chars/blaze/blazeSW.txt
+Cacheing 'Max' from data/chars/max/max.txt
+Cacheing 'Max_Knife' from data/chars/max/max_knife.txt
+Cacheing 'Max_Sword' from data/chars/max/max_sword.txt
+Cacheing 'Max_Pipe' from data/chars/max/max_pipe.txt
+Cacheing 'Max_Kunai' from data/chars/max/max_kunai.txt
+Cacheing 'MaxS' from data/chars/max/maxS.txt
+Cacheing 'MaxSW' from data/chars/max/maxSW.txt
+Cacheing 'Sammy' from data/chars/sammy/sammy.txt
+Cacheing 'Sammy_Knife' from data/chars/sammy/sammy_knife.txt
+Cacheing 'Sammy_Sword' from data/chars/sammy/sammy_sword.txt
+Cacheing 'Sammy_Pipe' from data/chars/sammy/sammy_pipe.txt
+Cacheing 'Sammy_Kunai' from data/chars/sammy/sammy_kunai.txt
+Cacheing 'SammyS' from data/chars/sammy/sammyS.txt
+Cacheing 'SammySW' from data/chars/sammy/sammySW.txt
+Cacheing 'Galsia' from data/chars/galsia/galsiaP.txt
+Cacheing 'Galsia_KnifeP' from data/chars/galsia/galsia_knifeP.txt
+Cacheing 'Donovan' from data/chars/donovan/donovanP.txt
+Cacheing 'Donovan_PipeP' from data/chars/donovan/donovan_pipeP.txt
+Cacheing 'Signal' from data/chars/signal/signalP.txt
+Cacheing 'Fog' from data/chars/fog/fogP.txt
+Cacheing 'Fog_PipeP' from data/chars/fog/fog_pipeP.txt
+Cacheing 'Hakuyo' from data/chars/hakuyo/hakuyoP.txt
+Cacheing 'Hanzou' from data/chars/hanzou/hanzouP.txt
+Cacheing 'Hanzou_KunaiP' from data/chars/hanzou/hanzou_kunaiP.txt
+Cacheing 'Hanzou_SwordP' from data/chars/hanzou/hanzou_swordP.txt
+Cacheing 'Raven' from data/chars/raven/ravenP.txt
+Cacheing 'Bigben' from data/chars/Bigben/bigbenP.txt
+Cacheing 'Bigben_FireP' from data/chars/Bigben/fire/fireP.txt
+Cacheing 'Electra' from data/chars/electra/electraP.txt
+Cacheing 'Jack' from data/chars/jack/jackP.txt
+Cacheing 'Jack_KnifeP' from data/chars/jack/jack_knifeP.txt
+Cacheing 'Barbon' from data/chars/barbon/barbonP.txt
+Cacheing 'Jet' from data/chars/jet/jetP.txt
+Cacheing 'Zamza' from data/chars/zamza/zamzaP.txt
+Cacheing 'Abadede' from data/chars/abadede/abadedeP.txt
+Cacheing 'R._Bear' from data/chars/bear/bearP.txt
+Cacheing 'Harakiri' from data/chars/harakiri/harakiriP.txt
+Cacheing 'Harakiri_FirewaveP' from data/chars/harakiri/firewave/firewaveP.txt
+Cacheing 'Uranium' from data/chars/particle/particleP.txt
+Cacheing 'Particle_LaserP' from data/chars/particle/laser/laserP.txt
+Cacheing 'Particle_LaserRP' from data/chars/particle/laser/laserRP.txt
+Cacheing 'Particle_ExplosionP' from data/chars/particle/explosion/explosionP.txt
+Cacheing 'Shiva' from data/chars/shiva/shivaP.txt
+Cacheing 'Shiva_OrbP' from data/chars/shiva/orb/orbP.txt
+Cacheing 'Mr._X' from data/chars/mrx/mrxP.txt
+Cacheing 'Mrx_Shot1' from data/chars/mrx/shot/shot1.txt
+Cacheing 'Mrx_Shot2' from data/chars/mrx/shot/shot2.txt
+Cacheing 'Mrx_Shot3' from data/chars/mrx/shot/shot3.txt
+Cacheing 'Mrx_Bullet' from data/chars/mrx/shot/bullet.txt
+Cacheing 'Galsia0' from data/chars/galsia/galsia0.txt
+Cacheing 'Galsia1' from data/chars/galsia/galsia1.txt
+Cacheing 'Galsia2' from data/chars/galsia/galsia2.txt
+Cacheing 'Galsia3' from data/chars/galsia/galsia3.txt
+Cacheing 'Galsia4' from data/chars/galsia/galsia4.txt
+Cacheing 'Galsia99' from data/chars/galsia/galsia99.txt
+Cacheing 'Galsia_Knife' from data/chars/galsia/galsia_knife.txt
+Cacheing 'Galsia_Knife99' from data/chars/galsia/galsia_knife99.txt
+Cacheing 'Galsia_Seat' from data/chars/galsia/galsia_seat.txt
+Cacheing 'Galsia_Wait2' from data/chars/galsia/galsia_wait2.txt
+Cacheing 'Donovan0' from data/chars/donovan/donovan0.txt
+Cacheing 'Donovan1' from data/chars/donovan/donovan1.txt
+Cacheing 'Donovan2' from data/chars/donovan/donovan2.txt
+Cacheing 'Donovan3' from data/chars/donovan/donovan3.txt
+Cacheing 'Donovan4' from data/chars/donovan/donovan4.txt
+Cacheing 'Donovan99' from data/chars/donovan/donovan99.txt
+Cacheing 'Donovan_Pipe' from data/chars/donovan/donovan_pipe.txt
+Cacheing 'Donovan_Pipe99' from data/chars/donovan/donovan_pipe99.txt
+Cacheing 'Donovan_Manhole' from data/chars/donovan/donovan_manhole.txt
+Cacheing 'Donovan_Wait0' from data/chars/donovan/donovan_wait0.txt
+Cacheing 'Donovan_Wait2' from data/chars/donovan/donovan_wait2.txt
+Cacheing 'Donovan_Wait4' from data/chars/donovan/donovan_wait4.txt
+Cacheing 'Signal0' from data/chars/signal/signal0.txt
+Cacheing 'Signal1' from data/chars/signal/signal1.txt
+Cacheing 'Signal2' from data/chars/signal/signal2.txt
+Cacheing 'Signal3' from data/chars/signal/signal3.txt
+Cacheing 'Signal4' from data/chars/signal/signal4.txt
+Cacheing 'Signal99' from data/chars/signal/signal99.txt
+Cacheing 'Signal_Gate' from data/chars/signal/signal_gate.txt
+Cacheing 'Signal_Bottle' from data/chars/signal/signal_bottle.txt
+Cacheing 'Signal_Wait0' from data/chars/signal/signal_wait0.txt
+Cacheing 'Signal_Wait2' from data/chars/signal/signal_wait2.txt
+Cacheing 'Fog0' from data/chars/fog/fog0.txt
+Cacheing 'Fog1' from data/chars/fog/fog1.txt
+Cacheing 'Fog2' from data/chars/fog/fog2.txt
+Cacheing 'Fog3' from data/chars/fog/fog3.txt
+Cacheing 'Fog4' from data/chars/fog/fog4.txt
+Cacheing 'Fog99' from data/chars/fog/fog99.txt
+Cacheing 'Fog_Pipe' from data/chars/fog/fog_pipe.txt
+Cacheing 'Fog_Pipe99' from data/chars/fog/fog_pipe99.txt
+Cacheing 'Fog_Bomb' from data/chars/fog/fog_bomb.txt
+Cacheing 'Fog_Wait1' from data/chars/fog/fog_wait1.txt
+Cacheing 'Fog_Wait2' from data/chars/fog/fog_wait2.txt
+Cacheing 'Fog_Wait3' from data/chars/fog/fog_wait3.txt
+Cacheing 'Moto0' from data/chars/fog/moto0.txt
+Cacheing 'Moto1' from data/chars/fog/moto1.txt
+Cacheing 'Moto2' from data/chars/fog/moto2.txt
+Cacheing 'Moto3' from data/chars/fog/moto3.txt
+Cacheing 'Moto4' from data/chars/fog/moto4.txt
+Cacheing 'Hakuyo0' from data/chars/hakuyo/hakuyo0.txt
+Cacheing 'Hakuyo1' from data/chars/hakuyo/hakuyo1.txt
+Cacheing 'Hakuyo2' from data/chars/hakuyo/hakuyo2.txt
+Cacheing 'Hakuyo3' from data/chars/hakuyo/hakuyo3.txt
+Cacheing 'Hakuyo4' from data/chars/hakuyo/hakuyo4.txt
+Cacheing 'Hakuyo99' from data/chars/hakuyo/hakuyo99.txt
+Cacheing 'Hakuyo_Wait0' from data/chars/hakuyo/hakuyo_wait0.txt
+Cacheing 'Hakuyo_Wait2' from data/chars/hakuyo/hakuyo_wait2.txt
+Cacheing 'Hanzou0' from data/chars/hanzou/hanzou0.txt
+Cacheing 'Hanzou1' from data/chars/hanzou/hanzou1.txt
+Cacheing 'Hanzou2' from data/chars/hanzou/hanzou2.txt
+Cacheing 'Hanzou3' from data/chars/hanzou/hanzou3.txt
+Cacheing 'Hanzou4' from data/chars/hanzou/hanzou4.txt
+Cacheing 'Hanzou5' from data/chars/hanzou/hanzou5.txt
+Cacheing 'Hanzou99' from data/chars/hanzou/hanzou99.txt
+Cacheing 'Hanzou_Kunai' from data/chars/hanzou/hanzou_kunai.txt
+Cacheing 'Hanzou_Kunai99' from data/chars/hanzou/hanzou_kunai99.txt
+Cacheing 'Hanzou_Sword' from data/chars/hanzou/hanzou_sword.txt
+Cacheing 'Hanzou_Sword99' from data/chars/hanzou/hanzou_sword99.txt
+Cacheing 'Hanzou_Evade' from data/chars/hanzou/hanzou_evade.txt
+Cacheing 'Hanzou_Wait0' from data/chars/hanzou/hanzou_wait0.txt
+Cacheing 'Hanzou_Wait1' from data/chars/hanzou/hanzou_wait1.txt
+Cacheing 'Hanzou_Wait2' from data/chars/hanzou/hanzou_wait2.txt
+Cacheing 'Hanzou_Wait3' from data/chars/hanzou/hanzou_wait3.txt
+Cacheing 'Hanzou_Wait4' from data/chars/hanzou/hanzou_wait4.txt
+Cacheing 'Raven0' from data/chars/raven/raven0.txt
+Cacheing 'Raven1' from data/chars/raven/raven1.txt
+Cacheing 'Raven2' from data/chars/raven/raven2.txt
+Cacheing 'Raven3' from data/chars/raven/raven3.txt
+Cacheing 'Raven4' from data/chars/raven/raven4.txt
+Cacheing 'Raven99' from data/chars/raven/raven99.txt
+Cacheing 'Bigben0' from data/chars/Bigben/bigben0.txt
+Cacheing 'Bigben1' from data/chars/Bigben/bigben1.txt
+Cacheing 'Bigben2' from data/chars/Bigben/bigben2.txt
+Cacheing 'Bigben3' from data/chars/Bigben/bigben3.txt
+Cacheing 'Bigben4' from data/chars/Bigben/bigben4.txt
+Cacheing 'Bigben99' from data/chars/Bigben/bigben99.txt
+Cacheing 'Bigben_Fire' from data/chars/Bigben/fire/fire.txt
+Cacheing 'Bigben_Fire99' from data/chars/Bigben/fire/fire99.txt
+Cacheing 'Electra0' from data/chars/electra/electra0.txt
+Cacheing 'Electra1' from data/chars/electra/electra1.txt
+Cacheing 'Electra2' from data/chars/electra/electra2.txt
+Cacheing 'Electra3' from data/chars/electra/electra3.txt
+Cacheing 'Electra4' from data/chars/electra/electra4.txt
+Cacheing 'Electra99' from data/chars/electra/electra99.txt
+Cacheing 'Electra_Wait0' from data/chars/electra/electra_wait0.txt
+Cacheing 'Jack0' from data/chars/jack/jack0.txt
+Cacheing 'Jack1' from data/chars/jack/jack1.txt
+Cacheing 'Jack2' from data/chars/jack/jack2.txt
+Cacheing 'Jack99' from data/chars/jack/jack99.txt
+Cacheing 'Jack_Knife' from data/chars/jack/jack_knife.txt
+Cacheing 'Jack_Knife99' from data/chars/jack/jack_knife99.txt
+Cacheing 'BikeXP' from data/chars/bike/bikeXP.txt
+Cacheing 'Vehelits' from data/chars/vehelits/vehelits.txt
+Cacheing 'Vehelits_Tail' from data/chars/vehelits/tail.txt
+Cacheing 'Barbon0' from data/chars/barbon/barbon0.txt
+Cacheing 'Barbon1' from data/chars/barbon/barbon1.txt
+Cacheing 'Barbon2' from data/chars/barbon/barbon2.txt
+Cacheing 'Barbon3' from data/chars/barbon/barbon3.txt
+Cacheing 'Barbon99' from data/chars/barbon/barbon99.txt
+Cacheing 'Barbon_Cocktail' from data/chars/barbon/barbon_cocktail.txt
+Cacheing 'Barbon_Jacket1' from data/chars/barbon/jacket/jacket1.txt
+Cacheing 'Barbon_Jacket2' from data/chars/barbon/jacket/jacket2.txt
+Cacheing 'Barbon_Jacket3' from data/chars/barbon/jacket/jacket3.txt
+Cacheing 'Barbon_Jacket4' from data/chars/barbon/jacket/jacket4.txt
+Cacheing 'Barbon_Jacket5' from data/chars/barbon/jacket/jacket5.txt
+Cacheing 'Barbon_Jacket6' from data/chars/barbon/jacket/jacket6.txt
+Cacheing 'Barbon_Jacket7' from data/chars/barbon/jacket/jacket7.txt
+Cacheing 'BarbonS' from data/chars/barbon/barbonS.txt
+Cacheing 'Jet0' from data/chars/jet/jet0.txt
+Cacheing 'Jet1' from data/chars/jet/jet1.txt
+Cacheing 'Jet2' from data/chars/jet/jet2.txt
+Cacheing 'Jet3' from data/chars/jet/jet3.txt
+Cacheing 'Jet4' from data/chars/jet/jet4.txt
+Cacheing 'Jet5' from data/chars/jet/jet5.txt
+Cacheing 'Jet99' from data/chars/jet/jet99.txt
+Cacheing 'JetS' from data/chars/jet/jetS.txt
+Cacheing 'Zamza0' from data/chars/zamza/zamza0.txt
+Cacheing 'Zamza1' from data/chars/zamza/zamza1.txt
+Cacheing 'Zamza2' from data/chars/zamza/zamza2.txt
+Cacheing 'Zamza99' from data/chars/zamza/zamza99.txt
+Cacheing 'ZamzaS' from data/chars/zamza/zamzaS.txt
+Cacheing 'Abadede0' from data/chars/abadede/abadede0.txt
+Cacheing 'Abadede1' from data/chars/abadede/abadede1.txt
+Cacheing 'Abadede2' from data/chars/abadede/abadede2.txt
+Cacheing 'Abadede99' from data/chars/abadede/abadede99.txt
+Cacheing 'AbadedeS' from data/chars/abadede/abadedeS.txt
+Cacheing 'Bear0' from data/chars/bear/bear0.txt
+Cacheing 'Bear1' from data/chars/bear/bear1.txt
+Cacheing 'Bear2' from data/chars/bear/bear2.txt
+Cacheing 'Bear99' from data/chars/bear/bear99.txt
+Cacheing 'BearS' from data/chars/bear/bearS.txt
+Cacheing 'Harakiri0' from data/chars/harakiri/harakiri0.txt
+Cacheing 'Harakiri1' from data/chars/harakiri/harakiri1.txt
+Cacheing 'Harakiri2' from data/chars/harakiri/harakiri2.txt
+Cacheing 'Harakiri99' from data/chars/harakiri/harakiri99.txt
+Cacheing 'Harakiri_Firewave' from data/chars/harakiri/firewave/firewave.txt
+Cacheing 'Harakiri_Firewave99' from data/chars/harakiri/firewave/firewave99.txt
+Cacheing 'HarakiriS' from data/chars/harakiri/harakiriS.txt
+Cacheing 'Harakiri_Blitz' from data/chars/harakiri/harakiri_blitz.txt
+Cacheing 'Particle0' from data/chars/particle/particle0.txt
+Cacheing 'Particle1' from data/chars/particle/particle1.txt
+Cacheing 'Particle2' from data/chars/particle/particle2.txt
+Cacheing 'Particle3' from data/chars/particle/particle3.txt
+Cacheing 'Particle99' from data/chars/particle/particle99.txt
+Cacheing 'Particle_Laser' from data/chars/particle/laser/laser.txt
+Cacheing 'Particle_Laser99' from data/chars/particle/laser/laser99.txt
+Cacheing 'Particle_LaserR' from data/chars/particle/laser/laserR.txt
+Cacheing 'Particle_LaserR99' from data/chars/particle/laser/laserR99.txt
+Cacheing 'Particle_Explosion' from data/chars/particle/explosion/explosion.txt
+Cacheing 'ParticleS' from data/chars/particle/particleS.txt
+Cacheing 'Shiva0' from data/chars/shiva/shiva0.txt
+Cacheing 'Shiva1' from data/chars/shiva/shiva1.txt
+Cacheing 'Shiva99' from data/chars/shiva/shiva99.txt
+Cacheing 'Shiva_Orb' from data/chars/shiva/orb/orb.txt
+Cacheing 'Shiva_Orb99' from data/chars/shiva/orb/orb99.txt
+Cacheing 'ShivaS' from data/chars/shiva/shivaS.txt
+Cacheing 'Shiva_Dodge' from data/chars/shiva/shiva_dodge.txt
+Cacheing 'Shiva_Rise' from data/chars/shiva/shiva_rise.txt
+Cacheing 'Mrx0' from data/chars/mrx/mrx0.txt
+Cacheing 'Mrx1' from data/chars/mrx/mrx1.txt
+Cacheing 'Mrx99' from data/chars/mrx/mrx99.txt
+Cacheing 'Mrx_Shot1' from data/chars/mrx/shot/shot1.txt
+Cacheing 'Mrx_Shot2' from data/chars/mrx/shot/shot2.txt
+Cacheing 'Mrx_Shot3' from data/chars/mrx/shot/shot3.txt
+Cacheing 'Mrx_Bullet' from data/chars/mrx/shot/bullet.txt
+Cacheing 'BasicX0' from data/chars/random/basicX0.txt
+Cacheing 'BasicX1' from data/chars/random/basicX1.txt
+Cacheing 'BasicX2' from data/chars/random/basicX2.txt
+Cacheing 'BasicX3' from data/chars/random/basicX3.txt
+Cacheing 'BasicX4' from data/chars/random/basicX4.txt
+Cacheing 'FogX' from data/chars/random/fogX.txt
+Cacheing 'HakuyoX' from data/chars/random/hakuyoX.txt
+Cacheing 'HanzouX' from data/chars/random/hanzouX.txt
+Cacheing 'RavenX' from data/chars/random/ravenX.txt
+Cacheing 'BigbenX' from data/chars/random/bigbenX.txt
+Cacheing 'ElectraX' from data/chars/random/electraX.txt
+Cacheing 'JetX' from data/chars/random/jetX.txt
+Cacheing 'ParticleX' from data/chars/random/particleX.txt
+Cacheing 'MotoX0' from data/chars/random/motoX0.txt
+Cacheing 'MotoX1' from data/chars/random/motoX1.txt
+Cacheing 'WeaponX' from data/chars/random/weaponX.txt
+Cacheing 'FoodX' from data/chars/random/foodX.txt
+
+Loaded 'Flash' from data/chars/misc/flash/flash.txt 
+Loaded 'Metalflash' from data/chars/misc/metalflash/metalflash.txt 
+Loaded 'Blood' from data/chars/misc/blood/blood.txt 
+Loaded 'Break' from data/chars/misc/break/break.txt 
+Loaded 'Burn' from data/chars/misc/burn/burn.txt 
+Loaded 'Shock' from data/chars/misc/shock/shock.txt 
+Loaded 'Explosion' from data/chars/misc/explosion/explosion.txt 
+Loaded 'Smoke' from data/chars/misc/smoke/smoke.txt 
+Loaded 'Quake_Low' from data/chars/misc/quake/quake_low.txt 
+Loaded 'Quake_High' from data/chars/misc/quake/quake_high.txt 
+Loaded 'Block' from data/chars/misc/block/block.txt 
+Loaded 'Dust' from data/chars/misc/dust/dust.txt 
+Loaded 'Fall' from data/chars/misc/fall/fall.txt 
+Loaded 'Landsafe' from data/chars/misc/landsafe/landsafe.txt 
+Loaded 'Xcut1' from data/chars/misc/xcut/xcut1.txt 
+Loaded 'Xcut2' from data/chars/misc/xcut/xcut2.txt 
+Loaded 'Xcut3' from data/chars/misc/xcut/xcut3.txt 
+Loaded 'Impact' from data/chars/misc/impact/impact.txt 
+Loaded 'LaserHit' from data/chars/misc/laserhit/laserhit.txt 
+Loaded 'Crowd' from data/chars/misc/dust/crowd.txt 
+Loaded 'Splash' from data/chars/misc/splash/splash.txt 
+Loaded 'Water' from data/chars/misc/water/water.txt 
+Loaded 'Counter' from data/chars/misc/counter/counter.txt 
+Loaded 'Countdown' from data/chars/misc/countdown/countdown.txt 
+Loaded 'Rage' from data/chars/misc/rage/rage.txt 
+Loaded 'RageFull' from data/chars/misc/ragefull/ragefull.txt 
+Loaded 'ragefull_bar1' from data/chars/misc/ragefull/ragefull_bar1.txt 
+Loaded 'ragefull_bar2' from data/chars/misc/ragefull/ragefull_bar2.txt 
+Loaded 'ragefull_bar3' from data/chars/misc/ragefull/ragefull_bar3.txt 
+Loaded 'ragefull_bar4' from data/chars/misc/ragefull/ragefull_bar4.txt 
+Loaded 'bar_mask1' from data/chars/misc/barmask/bar_mask1.txt 
+Loaded 'bar_mask2' from data/chars/misc/barmask/bar_mask2.txt 
+Loaded 'bar_mask3' from data/chars/misc/barmask/bar_mask3.txt 
+Loaded 'bar_mask4' from data/chars/misc/barmask/bar_mask4.txt 
+Loaded 'bar_mask1b' from data/chars/misc/barmask/bar_mask1b.txt 
+Loaded 'bar_mask2b' from data/chars/misc/barmask/bar_mask2b.txt 
+Loaded 'bar_mask3b' from data/chars/misc/barmask/bar_mask3b.txt 
+Loaded 'bar_mask4b' from data/chars/misc/barmask/bar_mask4b.txt 
+Loaded 'knife' from data/chars/weapons/knife.txt 
+Loaded 'knifeT' from data/chars/weapons/knifeT.txt 
+Loaded 'knifeJ' from data/chars/weapons/knifeJ.txt 
+Loaded 'knifeS' from data/chars/weapons/knifeS.txt 
+Loaded 'star' from data/chars/weapons/star.txt 
+Loaded 'star99' from data/chars/weapons/star99.txt 
+Loaded 'starP' from data/chars/weapons/starP.txt 
+Loaded 'giant_star' from data/chars/weapons/giant_star.txt 
+Loaded 'giant_star99' from data/chars/weapons/giant_star99.txt 
+Loaded 'giant_starP' from data/chars/weapons/giant_starP.txt 
+Loaded 'sword' from data/chars/weapons/sword.txt 
+Loaded 'swordT' from data/chars/weapons/swordT.txt 
+Loaded 'pipe' from data/chars/weapons/pipe.txt 
+Loaded 'pipeT' from data/chars/weapons/pipeT.txt 
+Loaded 'kunai' from data/chars/weapons/kunai.txt 
+Loaded 'kunaiT' from data/chars/weapons/kunaiT.txt 
+Loaded 'bottle' from data/chars/weapons/bottle.txt 
+Loaded 'bottle99' from data/chars/weapons/bottle99.txt 
+Loaded 'bottleP' from data/chars/weapons/bottleP.txt 
+Loaded 'Bottle_Broken1' from data/chars/weapons/bottle_broken1.txt 
+Loaded 'Bottle_Broken2' from data/chars/weapons/bottle_broken2.txt 
+Loaded 'grenade' from data/chars/weapons/grenade.txt 
+Loaded '1up' from data/chars/itens/1up.txt 
+Loaded 'Apple' from data/chars/itens/apple.txt 
+Loaded 'Cash' from data/chars/itens/cash.txt 
+Loaded 'Chicken' from data/chars/itens/chicken.txt 
+Loaded 'Gold' from data/chars/itens/gold.txt 
+Loaded 'noitem' from data/chars/itens/noitem.txt 
+Loaded 'Arcade' from data/chars/obstacles/arcade.txt 
+Loaded 'Bin' from data/chars/obstacles/bin.txt 
+Loaded 'Box' from data/chars/obstacles/box.txt 
+Loaded 'Cart' from data/chars/obstacles/cart.txt 
+Loaded 'Chair' from data/chars/obstacles/chair.txt 
+Loaded 'Barrel' from data/chars/obstacles/barrel.txt 
+Loaded 'Egg' from data/chars/obstacles/egg.txt 
+Loaded 'egg_explosion' from data/chars/obstacles/egg_explosion.txt 
+Loaded 'Egg_Explosion'Loaded 'Menu' from data/chars/obstacles/menu.txt 
+Loaded 'RoadBlock' from data/chars/obstacles/roadblock.txt 
+Loaded 'Sandbag' from data/chars/obstacles/sandbag.txt 
+Loaded 'Table' from data/chars/obstacles/table.txt 
+Loaded 'Tire' from data/chars/obstacles/tire.txt 
+Loaded 'Tree_Slow' from data/chars/obstacles/tree_slow.txt 
+Loaded 'Tree_Fast' from data/chars/obstacles/tree_fast.txt 
+Loaded 'Trash' from data/chars/obstacles/trash.txt 
+Loaded 'Vase' from data/chars/obstacles/vase.txt 
+Loaded 'select_back' from data/bgs/select/select_back.txt 
+Loaded 'Select_GradeP1' from data/bgs/select/gradeP1.txt 
+Loaded 'Select_GradeP2' from data/bgs/select/gradeP2.txt 
+Loaded 'Select_GradeP3' from data/bgs/select/gradeP3.txt 
+Loaded 'Select_GradeP4' from data/bgs/select/gradeP4.txt 
+Loaded 'Portrait_Axel' from data/bgs/select/portrait_axel.txt 
+Loaded 'Portrait_Blaze' from data/bgs/select/portrait_blaze.txt 
+Loaded 'Portrait_Max' from data/bgs/select/portrait_max.txt 
+Loaded 'Portrait_Sammy' from data/bgs/select/portrait_sammy.txt 
+Loaded 'Portrait_Bright0' from data/bgs/select/bright0.txt 
+Loaded 'Portrait_Bright1' from data/bgs/select/bright1.txt 
+Loaded 'Chosen' from data/bgs/select/chosen.txt 
+Loaded 'st1_dunk_a' from data/bgs/st1/dunk_a.txt 
+Loaded 'st1_dunk_b' from data/bgs/st1/dunk_b.txt 
+Loaded 'st1_rim' from data/bgs/st1/rim.txt 
+Loaded 'st1_grade' from data/bgs/st1/grade.txt 
+Loaded 'st1_lamp' from data/bgs/st1/lamp.txt 
+Loaded 'st1_light' from data/bgs/st1/light.txt 
+Loaded 'st1_manhole' from data/bgs/st1/manhole.txt 
+Loaded 'donovan_manhole' from data/chars/donovan/donovan_manhole.txt 
+Loaded 'donovan_pipe' from data/chars/donovan/donovan_pipe.txt 
+Loaded 'st1_gate' from data/bgs/st1/gate.txt 
+Loaded 'signal_gate' from data/chars/signal/signal_gate.txt 
+Loaded 'st1_rain' from data/bgs/st1/rain.txt 
+Loaded 'st1_ray' from data/bgs/st1/ray.txt 
+Loaded 'st1_thunder' from data/bgs/st1/thunder.txt 
+Loaded 'st1_drop' from data/bgs/st1/drop.txt 
+Loaded 'st2_city1' from data/bgs/st2/city1.txt 
+Loaded 'st2_city2' from data/bgs/st2/city2.txt 
+Loaded 'st2_truck' from data/bgs/st2/truck.txt 
+Loaded 'st2_reartruck' from data/bgs/st2/reartruck.txt 
+Loaded 'st2_lamp' from data/bgs/st2/lamp.txt 
+Loaded 'st3_entrance1' from data/bgs/st3/entrance1.txt 
+Loaded 'st3_entrance2' from data/bgs/st3/entrance2.txt 
+Loaded 'st3_entrance3' from data/bgs/st3/entrance3.txt 
+Loaded 'st3_entrance3S' from data/bgs/st3/entrance3S.txt 
+Loaded 'st3_fliper' from data/bgs/st3/fliper.txt 
+Loaded 'st3_grade' from data/bgs/st3/grade.txt 
+Loaded 'st3_lamp1' from data/bgs/st3/lamp1.txt 
+Loaded 'st3_lamp2' from data/bgs/st3/lamp2.txt 
+Loaded 'st3_lamp3' from data/bgs/st3/lamp3.txt 
+Loaded 'st3_lamp4' from data/bgs/st3/lamp4.txt 
+Loaded 'st3_gate' from data/bgs/st3/gate.txt 
+Loaded 'st4_people' from data/bgs/st4/people.txt 
+Loaded 'st5_panel1' from data/bgs/st5/panel1.txt 
+Loaded 'st5_panel2' from data/bgs/st5/panel2.txt 
+Loaded 'st6_beach' from data/bgs/st6/beach.txt 
+Loaded 'st6_grade' from data/bgs/st6/grade.txt 
+Loaded 'st7_machine1' from data/bgs/st7/machine1.txt 
+Loaded 'st7_machine1S' from data/bgs/st7/machine1S.txt 
+Loaded 'st7_machine2' from data/bgs/st7/machine2.txt 
+Loaded 'st7_machine2S' from data/bgs/st7/machine2S.txt 
+Loaded 'st7_elevator' from data/bgs/st7/elevator.txt 
+Loaded 'Fog_Bomb' from data/chars/fog/fog_bomb.txt 
+Loaded 'st7_elevatorS' from data/bgs/st7/elevatorS.txt 
+Loaded 'st7_backchange' from data/bgs/st7/backchange.txt 
+Loaded 'st8_elevator' from data/bgs/st8/elevator.txt 
+Loaded 'st8_elevatorS' from data/bgs/st8/elevatorS.txt 
+Loaded 'Axel' from data/chars/axel/axel.txt 
+Loaded 'Axel_Burn' from data/chars/axel/burn/burn.txt 
+Loaded 'Axel_Slash' from data/chars/axel/slash/slash.txt 
+Loaded 'Axel_Knife' from data/chars/axel/axel_knife.txt 
+Loaded 'Axel_Sword' from data/chars/axel/axel_sword.txt 
+Loaded 'Axel_Pipe' from data/chars/axel/axel_pipe.txt 
+Loaded 'Axel_Kunai' from data/chars/axel/axel_kunai.txt 
+Loaded 'AxelS' from data/chars/axel/axelS.txt 
+Loaded 'AxelSW' from data/chars/axel/axelSW.txt 
+Loaded 'Blaze' from data/chars/blaze/blaze.txt 
+Loaded 'Blaze_Knife' from data/chars/blaze/blaze_knife.txt 
+Loaded 'Blaze_Sword' from data/chars/blaze/blaze_sword.txt 
+Loaded 'Blaze_Pipe' from data/chars/blaze/blaze_pipe.txt 
+Loaded 'Blaze_Kunai' from data/chars/blaze/blaze_kunai.txt 
+Loaded 'Blaze_Orb' from data/chars/blaze/orb/orb.txt 
+Loaded 'BlazeS' from data/chars/blaze/blazeS.txt 
+Loaded 'BlazeSW' from data/chars/blaze/blazeSW.txt 
+Loaded 'Max' from data/chars/max/max.txt 
+Loaded 'Max_Knife' from data/chars/max/max_knife.txt 
+Loaded 'Max_Sword' from data/chars/max/max_sword.txt 
+Loaded 'Max_Pipe' from data/chars/max/max_pipe.txt 
+Loaded 'Max_Kunai' from data/chars/max/max_kunai.txt 
+Loaded 'MaxS' from data/chars/max/maxS.txt 
+Loaded 'MaxSW' from data/chars/max/maxSW.txt 
+Loaded 'Sammy' from data/chars/sammy/sammy.txt 
+Loaded 'Sammy_Knife' from data/chars/sammy/sammy_knife.txt 
+Loaded 'Sammy_Sword' from data/chars/sammy/sammy_sword.txt 
+Loaded 'Sammy_Pipe' from data/chars/sammy/sammy_pipe.txt 
+Loaded 'Sammy_Kunai' from data/chars/sammy/sammy_kunai.txt 
+Loaded 'SammyS' from data/chars/sammy/sammyS.txt 
+Loaded 'SammySW' from data/chars/sammy/sammySW.txt 
+Loaded 'Galsia' from data/chars/galsia/galsiaP.txt 
+Loaded 'Galsia_KnifeP' from data/chars/galsia/galsia_knifeP.txt 
+Loaded 'Donovan' from data/chars/donovan/donovanP.txt 
+Loaded 'Donovan_PipeP' from data/chars/donovan/donovan_pipeP.txt 
+Loaded 'Signal' from data/chars/signal/signalP.txt 
+Loaded 'Fog' from data/chars/fog/fogP.txt 
+Loaded 'Fog_PipeP' from data/chars/fog/fog_pipeP.txt 
+Loaded 'Hakuyo' from data/chars/hakuyo/hakuyoP.txt 
+Loaded 'Hanzou' from data/chars/hanzou/hanzouP.txt 
+Loaded 'hanzou_evade' from data/chars/hanzou/hanzou_evade.txt 
+Loaded 'Hanzou_KunaiP' from data/chars/hanzou/hanzou_kunaiP.txt 
+Loaded 'Hanzou_SwordP' from data/chars/hanzou/hanzou_swordP.txt 
+Loaded 'Raven' from data/chars/raven/ravenP.txt 
+Loaded 'BigBen' from data/chars/Bigben/bigbenP.txt 
+Loaded 'Bigben_FireP' from data/chars/Bigben/fire/fireP.txt 
+Loaded 'Electra' from data/chars/electra/electraP.txt 
+Loaded 'Jack' from data/chars/jack/jackP.txt 
+Loaded 'Jack_KnifeP' from data/chars/jack/jack_knifeP.txt 
+Loaded 'Barbon' from data/chars/barbon/barbonP.txt 
+Loaded 'barbonS' from data/chars/barbon/barbonS.txt 
+Loaded 'Jet' from data/chars/jet/jetP.txt 
+Loaded 'jetS' from data/chars/jet/jetS.txt 
+Loaded 'Zamza' from data/chars/zamza/zamzaP.txt 
+Loaded 'zamzaS' from data/chars/zamza/zamzaS.txt 
+Loaded 'Abadede' from data/chars/abadede/abadedeP.txt 
+Loaded 'AbadedeS' from data/chars/abadede/abadedeS.txt 
+Loaded 'R._Bear' from data/chars/bear/bearP.txt 
+Loaded 'bearS' from data/chars/bear/bearS.txt 
+Loaded 'Harakiri' from data/chars/harakiri/harakiriP.txt 
+Loaded 'harakiri_firewave' from data/chars/harakiri/firewave/firewave.txt 
+Loaded 'harakiriS' from data/chars/harakiri/harakiriS.txt 
+Loaded 'harakiri_blitz' from data/chars/harakiri/harakiri_blitz.txt 
+Loaded 'Harakiri_FirewaveP' from data/chars/harakiri/firewave/firewaveP.txt 
+Loaded 'Uranium' from data/chars/particle/particleP.txt 
+Loaded 'particleS' from data/chars/particle/particleS.txt 
+Loaded 'Particle_LaserP' from data/chars/particle/laser/laserP.txt 
+Loaded 'Particle_LaserRP' from data/chars/particle/laser/laserRP.txt 
+Loaded 'Particle_ExplosionP' from data/chars/particle/explosion/explosionP.txt 
+Loaded 'Shiva' from data/chars/shiva/shivaP.txt 
+Loaded 'shivaS' from data/chars/shiva/shivaS.txt 
+Loaded 'shiva_dodge' from data/chars/shiva/shiva_dodge.txt 
+Loaded 'shiva_rise' from data/chars/shiva/shiva_rise.txt 
+Loaded 'Shiva_OrbP' from data/chars/shiva/orb/orbP.txt 
+Loaded 'Mr._X' from data/chars/mrx/mrxP.txt 
+Loaded 'Mrx_Shot1' from data/chars/mrx/shot/shot1.txt 
+Loaded 'Mrx_Shot2' from data/chars/mrx/shot/shot2.txt 
+Loaded 'Mrx_Shot3' from data/chars/mrx/shot/shot3.txt 
+Loaded 'Mrx_Bullet' from data/chars/mrx/shot/bullet.txt 
+
+Loading models...............	Done!
+Object engine init...........	Done!
+Input init...................	Done!
+Create blending tables.......	Done!
+Save settings so far........	Done!
+
+
+Loaded 32-bit background 'data/bgs/logo'
+
+Can't play music file 'data/music/remix'
+Skipping video ; WebM playback not supported on this platform
+Skipping video ; WebM playback not supported on this platform
+Skipping video ; WebM playback not supported on this platform
+Skipping video ; WebM playback not supported on this platform
+Skipping video ; WebM playback not supported on this platform
+Loaded 32-bit background 'data/bgs/title'
+
+Can't play music file 'data/music/remix'
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Skipping video <e; WebM playback not supported on this platform
+Loaded 32-bit background 'data/bgs/titleb'
+
+Can't play music file 'data/music/remix'
+
+************ Shutting Down ************
+
+OpenBOR v4.0 Build 0 (commit hash: b00efbc), Compile Date: Jun 21 2024
+Presented by the OpenBOR Team.
+www.chronocrash.com
+OpenBOR is the open source continuation of Beats of Rage by Senile Team.
+
+Special thanks to SEGA and SNK.
+
+Total Ram:   522371072 Bytes (   498 MB )
+ Free Ram:   331833344 Bytes (   316 MB )
+ Used Ram:    22271488 Bytes (    21 MB )
+
+Release level data...........
+Done!
+
+Release graphics data........	Done!
+Release game data............
+
+Unload 'Flash' ............Done.
+Unload 'Metalflash' ............Done.
+Unload 'Blood' ............Done.
+Unload 'Break' ............Done.
+Unload 'Burn' ............Done.
+Unload 'Shock' ............Done.
+Unload 'Explosion' ............Done.
+Unload 'Smoke' ............Done.
+Unload 'Quake_Low' ............Done.
+Unload 'Quake_High' ............Done.
+Unload 'Block' ............Done.
+Unload 'Dust' ............Done.
+Unload 'Fall' ............Done.
+Unload 'Landsafe' ............Done.
+Unload 'Xcut1' ............Done.
+Unload 'Xcut2' ............Done.
+Unload 'Xcut3' ............Done.
+Unload 'Impact' ............Done.
+Unload 'LaserHit' ............Done.
+Unload 'Crowd' ............Done.
+Unload 'Splash' ............Done.
+Unload 'Water' ............Done.
+Unload 'Counter' ............Done.
+Unload 'Countdown' ............Done.
+Unload 'Rage' ............Done.
+Unload 'RageFull' ............Done.
+Unload 'ragefull_bar1' ............Done.
+Unload 'ragefull_bar2' ............Done.
+Unload 'ragefull_bar3' ............Done.
+Unload 'ragefull_bar4' ............Done.
+Unload 'bar_mask1' ............Done.
+Unload 'bar_mask2' ............Done.
+Unload 'bar_mask3' ............Done.
+Unload 'bar_mask4' ............Done.
+Unload 'bar_mask1b' ............Done.
+Unload 'bar_mask2b' ............Done.
+Unload 'bar_mask3b' ............Done.
+Unload 'bar_mask4b' ............Done.
+Unload 'knife' ............Done.
+Unload 'knifeT' ............Done.
+Unload 'knifeJ' ............Done.
+Unload 'knifeS' ............Done.
+Unload 'star' ............Done.
+Unload 'star99' ............Done.
+Unload 'starP' ............Done.
+Unload 'giant_star' ............Done.
+Unload 'giant_star99' ............Done.
+Unload 'giant_starP' ............Done.
+Unload 'sword' ............Done.
+Unload 'swordT' ............Done.
+Unload 'pipe' ............Done.
+Unload 'pipeT' ............Done.
+Unload 'kunai' ............Done.
+Unload 'kunaiT' ............Done.
+Unload 'bottle' ............Done.
+Unload 'bottle99' ............Done.
+Unload 'bottleP' ............Done.
+Unload 'Bottle_Broken1' ............Done.
+Unload 'Bottle_Broken2' ............Done.
+Unload 'grenade' ............Done.
+Unload '1up' ............Done.
+Unload 'Apple' ............Done.
+Unload 'Cash' ............Done.
+Unload 'Chicken' ............Done.
+Unload 'Gold' ............Done.
+Unload 'noitem' ............Done.
+Unload 'Arcade' ............Done.
+Unload 'Bin' ............Done.
+Unload 'Box' ............Done.
+Unload 'Cart' ............Done.
+Unload 'Chair' ............Done.
+Unload 'Barrel' ............Done.
+Unload 'Egg' ............Done.
+Unload 'Egg_Explosion' ............Done.
+Unload 'Menu' ............Done.
+Unload 'RoadBlock' ............Done.
+Unload 'Sandbag' ............Done.
+Unload 'Table' ............Done.
+Unload 'Tire' ............Done.
+Unload 'Tree_Slow' ............Done.
+Unload 'Tree_Fast' ............Done.
+Unload 'Trash' ............Done.
+Unload 'Vase' ............Done.
+Unload 'select_back' ............Done.
+Unload 'Select_GradeP1' ............Done.
+Unload 'Select_GradeP2' ............Done.
+Unload 'Select_GradeP3' ............Done.
+Unload 'Select_GradeP4' ............Done.
+Unload 'Portrait_Axel' ............Done.
+Unload 'Portrait_Blaze' ............Done.
+Unload 'Portrait_Max' ............Done.
+Unload 'Portrait_Sammy' ............Done.
+Unload 'Portrait_Bright0' ............Done.
+Unload 'Portrait_Bright1' ............Done.
+Unload 'Chosen' ............Done.
+Unload 'st1_dunk_a' ............Done.
+Unload 'st1_dunk_b' ............Done.
+Unload 'st1_rim' ............Done.
+Unload 'st1_grade' ............Done.
+Unload 'st1_lamp' ............Done.
+Unload 'st1_light' ............Done.
+Unload 'st1_manhole' ............Done.
+Unload 'Donovan_Manhole' ............Done.
+Unload 'Donovan_Pipe' ............Done.
+Unload 'st1_gate' ............Done.
+Unload 'Signal_Gate' ............Done.
+Unload 'st1_rain' ............Done.
+Unload 'st1_ray' ............Done.
+Unload 'st1_thunder' ............Done.
+Unload 'st1_drop' ............Done.
+Unload 'st2_city1' ............Done.
+Unload 'st2_city2' ............Done.
+Unload 'st2_truck' ............Done.
+Unload 'st2_reartruck' ............Done.
+Unload 'st2_lamp' ............Done.
+Unload 'st3_entrance1' ............Done.
+Unload 'st3_entrance2' ............Done.
+Unload 'st3_entrance3' ............Done.
+Unload 'st3_entrance3S' ............Done.
+Unload 'st3_fliper' ............Done.
+Unload 'st3_grade' ............Done.
+Unload 'st3_lamp1' ............Done.
+Unload 'st3_lamp2' ............Done.
+Unload 'st3_lamp3' ............Done.
+Unload 'st3_lamp4' ............Done.
+Unload 'st3_gate' ............Done.
+Unload 'st4_people' ............Done.
+Unload 'st5_panel1' ............Done.
+Unload 'st5_panel2' ............Done.
+Unload 'st6_beach' ............Done.
+Unload 'st6_grade' ............Done.
+Unload 'st7_machine1' ............Done.
+Unload 'st7_machine1S' ............Done.
+Unload 'st7_machine2' ............Done.
+Unload 'st7_machine2S' ............Done.
+Unload 'st7_elevator' ............Done.
+Unload 'Fog_Bomb' ............Done.
+Unload 'st7_elevatorS' ............Done.
+Unload 'st7_backchange' ............Done.
+Unload 'st8_elevator' ............Done.
+Unload 'st8_elevatorS' ............Done.
+Unload 'Axel' ............Done.
+Unload 'Axel_Burn' ............Done.
+Unload 'Axel_Slash' ............Done.
+Unload 'Axel_Knife' ............Done.
+Unload 'Axel_Sword' ............Done.
+Unload 'Axel_Pipe' ............Done.
+Unload 'Axel_Kunai' ............Done.
+Unload 'AxelS' ............Done.
+Unload 'AxelSW' ............Done.
+Unload 'Blaze' ............Done.
+Unload 'Blaze_Knife' ............Done.
+Unload 'Blaze_Sword' ............Done.
+Unload 'Blaze_Pipe' ............Done.
+Unload 'Blaze_Kunai' ............Done.
+Unload 'Blaze_Orb' ............Done.
+Unload 'BlazeS' ............Done.
+Unload 'BlazeSW' ............Done.
+Unload 'Max' ............Done.
+Unload 'Max_Knife' ............Done.
+Unload 'Max_Sword' ............Done.
+Unload 'Max_Pipe' ............Done.
+Unload 'Max_Kunai' ............Done.
+Unload 'MaxS' ............Done.
+Unload 'MaxSW' ............Done.
+Unload 'Sammy' ............Done.
+Unload 'Sammy_Knife' ............Done.
+Unload 'Sammy_Sword' ............Done.
+Unload 'Sammy_Pipe' ............Done.
+Unload 'Sammy_Kunai' ............Done.
+Unload 'SammyS' ............Done.
+Unload 'SammySW' ............Done.
+Unload 'Galsia' ............Done.
+Unload 'Galsia_KnifeP' ............Done.
+Unload 'Donovan' ............Done.
+Unload 'Donovan_PipeP' ............Done.
+Unload 'Signal' ............Done.
+Unload 'Fog' ............Done.
+Unload 'Fog_PipeP' ............Done.
+Unload 'Hakuyo' ............Done.
+Unload 'Hanzou' ............Done.
+Unload 'Hanzou_Evade' ............Done.
+Unload 'Hanzou_KunaiP' ............Done.
+Unload 'Hanzou_SwordP' ............Done.
+Unload 'Raven' ............Done.
+Unload 'BigBen' ............Done.
+Unload 'Bigben_FireP' ............Done.
+Unload 'Electra' ............Done.
+Unload 'Jack' ............Done.
+Unload 'Jack_KnifeP' ............Done.
+Unload 'Barbon' ............Done.
+Unload 'BarbonS' ............Done.
+Unload 'Jet' ............Done.
+Unload 'JetS' ............Done.
+Unload 'Zamza' ............Done.
+Unload 'ZamzaS' ............Done.
+Unload 'Abadede' ............Done.
+Unload 'AbadedeS' ............Done.
+Unload 'R._Bear' ............Done.
+Unload 'BearS' ............Done.
+Unload 'Harakiri' ............Done.
+Unload 'Harakiri_Firewave' ............Done.
+Unload 'HarakiriS' ............Done.
+Unload 'Harakiri_Blitz' ............Done.
+Unload 'Harakiri_FirewaveP' ............Done.
+Unload 'Uranium' ............Done.
+Unload 'ParticleS' ............Done.
+Unload 'Particle_LaserP' ............Done.
+Unload 'Particle_LaserRP' ............Done.
+Unload 'Particle_ExplosionP' ............Done.
+Unload 'Shiva' ............Done.
+Unload 'ShivaS' ............Done.
+Unload 'Shiva_Dodge' ............Done.
+Unload 'Shiva_Rise' ............Done.
+Unload 'Shiva_OrbP' ............Done.
+Unload 'Mr._X' ............Done.
+Unload 'Mrx_Shot1' ............Done.
+Unload 'Mrx_Shot2' ............Done.
+Unload 'Mrx_Shot3' ............Done.
+Unload 'Mrx_Bullet' ............Done.
+
+Release game data............	Done!
+Release timer................	Done!
+Release input hardware.......	Done!
+Release sound system.........	Done!
+Release FileCaching System...	Done!
+
+**************** Done *****************
+
+OpenBOR v4.0 Build 0 (commit hash: b00efbc), Compile Date: Jun 21 2024
+Presented by the OpenBOR Team.
+www.chronocrash.com
+OpenBOR is the open source continuation of Beats of Rage by Senile Team.
+
+Special thanks to SEGA and SNK.
+

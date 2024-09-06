@@ -1,0 +1,1 @@
+Enter your WiFi information in the wpa_supplicant.conf file
