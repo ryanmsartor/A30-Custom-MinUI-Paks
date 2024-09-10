@@ -1,5 +1,4 @@
 
-
 Genesis Plus GX pak for minui (A30 only)
 
 The included Game Gear support in minui uses Picodrive, whose Game Gear support
